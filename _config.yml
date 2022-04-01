@@ -6,7 +6,7 @@
 # --- Required options --- #
 
 # Name of website
-title: Graduate Climate Conference 2022
+title: Graduate Climate Conference
 
 # Your name to show in the footer
 author: GCC Executive Committee
@@ -74,7 +74,7 @@ social-network-links:
 
 # If you want your website to generate an RSS feed, provide a description
 # The URL for the feed will be https://<your_website>/feed.xml
-rss-description: This website is a virtual proof that I'm awesome
+# rss-description: This website is a virtual proof that I'm awesome
 
 # --- General options --- #
 
