@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Inclusivity
-subtitle: DEI at the Graduate Climate Conference
+title: Justice, Equity, Diversity, and Inclusion
+subtitle: JEDI at the Graduate Climate Conference
 ---
 
 # Graduate Climate Conference Diversity Statement
