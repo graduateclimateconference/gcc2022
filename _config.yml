@@ -6,7 +6,7 @@
 # --- Required options --- #
 
 # Name of website
-title: Graduate Climate Conference
+title: Graduate Climate Conference 2022
 
 # Your name to show in the footer
 author: GCC Executive Committee
@@ -18,15 +18,15 @@ navbar-links:
   #  - Beautiful Jekyll: "https://beautifuljekyll.com"
   #  - Learn markdown: "https://www.markdowntutorial.com/"
   #Author's home: "https://deanattali.com"
-  Home: ""
+  Home: "index"
   Application: "application"
   Logistics:
     - Conference Logistics: "logistics"
     - Abstracts & Schedule: "abstracts"
   About:
     - About: "about"
-    - Inclusivity: "inclusivity"
-    - Executive Committee: "committee"
+    - JEDI: "inclusivity"
+    - Organizers: "committee"
     - Sponsors: "sponsors"
     - Archive: "archive"
   FAQ: "faq"
