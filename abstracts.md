@@ -1,7 +1,6 @@
 ---
 layout: page
-title: Abstracts
-subtitle: Abstracts & Schedule
+title: Abstracts & Schedule
 ---
 
 This page will be updated after the abstract deadline.
