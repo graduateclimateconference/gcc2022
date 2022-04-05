@@ -1,3 +1,4 @@
+---
 layout: page
 title: Meet the Executive Committee
 ---
