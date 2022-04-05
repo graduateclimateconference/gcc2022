@@ -18,18 +18,17 @@ navbar-links:
   #  - Beautiful Jekyll: "https://beautifuljekyll.com"
   #  - Learn markdown: "https://www.markdowntutorial.com/"
   #Author's home: "https://deanattali.com"
-  Home: "index"
+  About: "about"
   Application: "application"
   Logistics:
     - Conference Logistics: "logistics"
     - Abstracts & Schedule: "abstracts"
-  About:
-    - About: "about"
-    - JEDI: "inclusivity"
+  JEDI: "inclusivity"
+  More Info:
     - Organizers: "committee"
     - Sponsors: "sponsors"
     - Archive: "archive"
-  FAQ: "faq"
+    - FAQ: "faq"
 
 # --- Logo --- #
 
