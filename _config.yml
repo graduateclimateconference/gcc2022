@@ -14,7 +14,6 @@ author: GCC Executive Committee
 # --- List of links in the navigation bar --- #
 
 navbar-links:
-  About: "about"
   #Resources:
   #  - Beautiful Jekyll: "https://beautifuljekyll.com"
   #  - Learn markdown: "https://www.markdowntutorial.com/"
@@ -22,9 +21,11 @@ navbar-links:
   Application: "application"
   Logistics: "logistics"
   Abstracts & Schedule: "abstracts"
-  Inclusivity: "inclusivity"
-  Sponsors: "sponsors"
-  Archive: "archive"
+  About: "about"
+    - Inclusivity: "inclusivity"
+    - Executive Committee: "committee"
+    - Sponsors: "sponsors"
+    - Archive: "archive"
   FAQ: "faq"
 
 # --- Logo --- #
