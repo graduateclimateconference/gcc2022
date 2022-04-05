@@ -21,7 +21,7 @@ navbar-links:
   Application: "application"
   Logistics: "logistics"
   Abstracts & Schedule: "abstracts"
-  About: "about"
+  About:
     - Inclusivity: "inclusivity"
     - Executive Committee: "committee"
     - Sponsors: "sponsors"
