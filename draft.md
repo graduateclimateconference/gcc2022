@@ -73,13 +73,13 @@ title: Meet the Executive Committee
     <h5 class="text-center">Responsive Grid Image Gallery Using PHP AND BOOTSTRAP</h5> -->
     <h1>Committee Members</h1>
 <div class="myGallery">
-  <img src="assets/img/headshots/Cassia Cai.jpg" />
-  <img src="assets/img/headshots/Emma Heitmann.jpg" />
-  <img src="assets/img/headshots/Hemalatha Velappan.jpg" />
-  <img src="assets/img/headshots/Katherine Hasnain profile pic (2).JPG" />
-  <img src="assets/img/headshots/Kristen Falcinelli.jpg" />
-  <img src="assets/img/headshots/Leblanc_Danielle.jpeg" />
-  <img src="assets/img/headshots/Puxley_Bryony.jpeg" />
+  <img src="/assets/img/headshots/Cassia Cai.jpg" />
+  <img src="/assets/img/headshots/Emma Heitmann.jpg" />
+  <img src="/assets/img/headshots/Hemalatha Velappan.jpg" />
+  <img src="/assets/img/headshots/Katherine Hasnain profile pic (2).JPG" />
+  <img src="/assets/img/headshots/Kristen Falcinelli.jpg" />
+  <img src="/assets/img/headshots/Leblanc_Danielle.jpeg" />
+  <img src="/assets/img/headshots/Puxley_Bryony.jpeg" />
   <!-- <div class="item">
     <img src="https://picsum.photos/190/190?11" />
     <span class="caption">This is an image caption for image 11</span>
@@ -100,7 +100,7 @@ title: Meet the Executive Committee
     <img src="https://picsum.photos/190/190?15" />
     <span class="caption">This is an image caption for image 15</span>
   </div> -->
-</div>
+<!-- </div>
 <p><em><small>If you need something fancier, just check out <a href="https://gridzy.gallery/" target="_blank">Gridzy.Gallery</a></small></em></p>
-    </div>
+    </div> -->
 </body>
