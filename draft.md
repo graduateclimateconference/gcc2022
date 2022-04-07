@@ -3,13 +3,7 @@ layout: page
 title: Meet the Executive Committee
 ---
 
-<!DOCTYPE html>
-
-  <link rel="stylesheet" type="text/css" href="/assets/css/grid.css">
-      
-  
-
-
+<link rel="stylesheet" type="text/css" href="/assets/css/grid.css">
 
 <body>
 <div class=" container-md " role="main">
@@ -68,35 +62,25 @@ title: Meet the Executive Committee
 
 <p>Shawn Wang</p>
 
-<p>Lin Yao1</p>
-
-
-      
-
-      
+<p>Lin Yao1</p> 
 
     </div>
   </div>
 </div>
 
 <div class="container-fluid">
-    <h3 class="text-center mt-3">DISPLAY ALL IMAGES FROM DIRECTORY/FOLDER</h3>
-    <h5 class="text-center">Responsive Grid Image Gallery Using PHP AND BOOTSTRAP</h5>
-    <h1>Let's try a grid</h1>
-    <h1>Simple and Responsive CSS Image Grid</h1>
-<p>And it works also for other content, not only images ✌😏</p>
+    <!-- <h3 class="text-center mt-3">DISPLAY ALL IMAGES FROM DIRECTORY/FOLDER</h3>
+    <h5 class="text-center">Responsive Grid Image Gallery Using PHP AND BOOTSTRAP</h5> -->
+    <h1>Committee Members</h1>
 <div class="myGallery">
-  <img src="https://picsum.photos/190/190?1" />
-  <img src="https://picsum.photos/190/190?2" />
-  <img src="https://picsum.photos/190/190?3" />
-  <img src="https://picsum.photos/190/190?4" />
-  <img src="https://picsum.photos/190/190?5" />
-  <img src="https://picsum.photos/190/190?6" />
-  <img src="https://picsum.photos/190/190?7" />
-  <img src="https://picsum.photos/190/190?8" />
-  <img src="https://picsum.photos/190/190?9" />
-  <img src="https://picsum.photos/190/190?10" />
-  <div class="item">
+  <img src="assets/img/headshots/Cassia Cai.jpg" />
+  <img src="assets/img/headshots/Emma Heitmann.jpg" />
+  <img src="assets/img/headshots/Hemalatha Velappan.jpg" />
+  <img src="assets/img/headshots/Katherine Hasnain profile pic (2).JPG" />
+  <img src="assets/img/headshots/Kristen Falcinelli.jpg" />
+  <img src="assets/img/headshots/Leblanc_Danielle.jpeg" />
+  <img src="assets/img/headshots/Puxley_Bryony.jpeg" />
+  <!-- <div class="item">
     <img src="https://picsum.photos/190/190?11" />
     <span class="caption">This is an image caption for image 11</span>
   </div>
@@ -115,9 +99,8 @@ title: Meet the Executive Committee
   <div class="item">
     <img src="https://picsum.photos/190/190?15" />
     <span class="caption">This is an image caption for image 15</span>
-  </div>
+  </div> -->
 </div>
 <p><em><small>If you need something fancier, just check out <a href="https://gridzy.gallery/" target="_blank">Gridzy.Gallery</a></small></em></p>
     </div>
 </body>
-</html>
