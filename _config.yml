@@ -24,6 +24,7 @@ navbar-links:
     - Conference Logistics: "logistics"
     - Abstracts & Schedule: "abstracts"
   JEDI: "inclusivity"
+  Draft: "draft"
   More Info:
     - Organizers: "committee"
     - Sponsors: "sponsors"
