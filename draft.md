@@ -5,7 +5,7 @@ title: Meet the Executive Committee
 
 <link rel="stylesheet" type="text/css" href="/assets/css/grid.css">
 
-<body>
+
 <div class=" container-md " role="main">
   <div class="row">
     <!-- <div class=" col-xl-8 offset-xl-2 col-lg-10 offset-lg-1 "> -->
@@ -78,7 +78,7 @@ title: Meet the Executive Committee
   <img src="/assets/img/headshots/Hemalatha Velappan.jpg" />
   <img src="/assets/img/headshots/Katherine Hasnain profile pic (2).JPG" />
   <img src="/assets/img/headshots/Kristen Falcinelli.jpg" />
-  <img src="/assets/img/headshots/Leblanc_Danielle.jpeg" />
+  <img src="/assets/img/headshots/LeBlanc_Danielle.jpeg" />
   <img src="/assets/img/headshots/Puxley_Bryony.jpeg" />
   <!-- <div class="item">
     <img src="https://picsum.photos/190/190?11" />
@@ -103,4 +103,3 @@ title: Meet the Executive Committee
 <!-- </div>
 <p><em><small>If you need something fancier, just check out <a href="https://gridzy.gallery/" target="_blank">Gridzy.Gallery</a></small></em></p>
     </div> -->
-</body>
