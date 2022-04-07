@@ -33,7 +33,6 @@ Emma Heitmann
 
 Cora Hersh
 
-
 Lauren Hunt
 
 Danielle LeBlanc
@@ -45,7 +44,6 @@ Amy Liu
 Ankur Mahesh 
 
 Leslie Nguyen
-
 
 Oghenekevwe Oghenechovwen
 
