@@ -22,7 +22,7 @@ subtitle: Frequently Asked Questions
 
 ### When does the application open?
 
-The [application](application) opened on April 14th, 2022.
+The [application](https://graduateclimateconference.github.io/application/) opened on April 14th, 2022.
 
 ### When does the application close?
 
@@ -42,11 +42,11 @@ Travel grants are issued as reimbursements. You must present a receipt of your e
 
 ### Are accommodations, transportation, and food included?
 
-We will provide transport between UW and Pack Forest. Conference attendees will stay in the historical cabins on site, with bedding and towels provided. Meals will also be served in the on-site dining hall. More information can be found on the [Logistics](logistics) page.
+We will provide transport between UW and Pack Forest. Conference attendees will stay in the historical cabins on site, with bedding and towels provided. Meals will also be served in the on-site dining hall. More information can be found on the [Logistics](https://graduateclimateconference.github.io/logistics/) page.
 
 ### What are the Sunday activities?
 
-It is a GCC tradition to have optional recreation activities on Sunday afternoon. Refer to the [Logistics](logistics) page later for more information about specific activities offered at GCC 2022.
+It is a GCC tradition to have optional recreation activities on Sunday afternoon. Refer to the [Logistics](https://graduateclimateconference.github.io/logistics/) page later for more information about specific activities offered at GCC 2022.
 
 ### What precautions does the GCC have against COVID-19?
 
