@@ -55,7 +55,6 @@ You will receive an email before the conference that will detail your travel iti
   clear: both;
 }
 </style>
-</head>
 <body>
 
 <h1>Accomodations</h1>
@@ -67,7 +66,7 @@ You will receive an email before the conference that will detail your travel iti
     <p>Here is a reminder of what to bring with you: a headlamp, warm clothes, and a rain jacket. Bedding and towels will be provided. You will be staying in cabins with 8 people in them, so you may want to bring ear plugs with you if you are a light sleeper!</p>
   </div>
   <div class="column right" style="background-color: site.page-col;">
-    <img src="pfcc_map.png" alt="Pack Forest Conference Center Map">
+    <img src="/assets/img/pfcc_map.png" alt="Pack Forest Conference Center Map">
   </div>
 </div>
 
