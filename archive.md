@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Archive
+cover-img: "assets/img/GCC2018.jpeg"
 ---
 
 # Past Conferences
