@@ -3,11 +3,6 @@ layout: page
 title: Logistics
 subtitle: What you need to know about the GCC
 ---
-__Contents__:
-- [Location](#Location)
-- [Transportation](#Transportation)
-- [Accomodations](#Accomodations)
-
 
 # Location
 
@@ -56,11 +51,9 @@ You will receive an email before the conference that will detail your travel iti
 }
 </style>
 <body>
-
-<h1>Accomodations</h1>
-
 <div class="row">
   <div class="column left" style="background-color: site.page-col;">
+    <h1>Accomodations</h1>
     <p>Conference participants will be staying in historical cabins. Each cabin sleeps up to eight people. Restrooms and showers are located in a building across from the cabins (see map for details). Pack Forest provides towels and bedding for all participants.</p>
     <h3>What to Bring</h3>
     <p>Here is a reminder of what to bring with you: a headlamp, warm clothes, and a rain jacket. Bedding and towels will be provided. You will be staying in cabins with 8 people in them, so you may want to bring ear plugs with you if you are a light sleeper!</p>
@@ -69,14 +62,4 @@ You will receive an email before the conference that will detail your travel iti
     <img src="/assets/img/pfcc_map.png" alt="Pack Forest Conference Center Map">
   </div>
 </div>
-
 </body>
-
-<!-- 
-## Accomodations
-
-Conference participants will be staying in historical cabins. Each cabin sleeps up to eight people. Restrooms and showers are located in a building across from the cabins (see map for details). Pack Forest provides towels and bedding for all participants.
-
-### What to Bring
-
-Here is a reminder of what to bring with you: a headlamp, warm clothes, and a rain jacket. Bedding and towels will be provided. You will be staying in cabins with 8 people in them, so you may want to bring ear plugs with you if you are a light sleeper! -->
