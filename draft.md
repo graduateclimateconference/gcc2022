@@ -86,30 +86,3 @@ title: Meet the Executive Committee
   <img src="/assets/img/headshots/Mahesh_Ankur-GCC Cropped.jpg" />
   <img src="/assets/img/headshots/Oghenekevwe_Oghenechovwen.jpeg" />
   <img src="/assets/img/headshots/RebeccaLima.jpg" />
-  </div>
-</div>
-
-
-  <!-- <div class="item">
-    <img src="https://picsum.photos/190/190?11" />
-    <span class="caption">This is an image caption for image 11</span>
-  </div>
-  <div class="item">
-    <img src="https://picsum.photos/190/190?12" />
-    <span class="caption">This is an image caption for image 12</span>
-  </div>
-  <div class="item">
-    <img src="https://picsum.photos/190/190?13" />
-    <span class="caption">This is an image caption for image 13</span>
-  </div>
-  <div class="item">
-    <img src="https://picsum.photos/190/190?14" />
-    <span class="caption">This is an image caption for image 14</span>
-  </div>
-  <div class="item">
-    <img src="https://picsum.photos/190/190?15" />
-    <span class="caption">This is an image caption for image 15</span>
-  </div> -->
-<!-- </div>
-<p><em><small>If you need something fancier, just check out <a href="https://gridzy.gallery/" target="_blank">Gridzy.Gallery</a></small></em></p>
-    </div> -->
