@@ -64,13 +64,14 @@ title: Meet the Executive Committee
 
 <p>Lin Yao</p> 
 
-    </div>
+    </ div>
   </div>
 </div>
 
 <div class="container-fluid">
     <h1>Committee Members</h1>
 <div class="myGallery">
+  <img src="/assets/img/headshots/Rebecca_ClevelandStout.jpg" />
   <img src="/assets/img/headshots/Puxley_Bryony.jpeg" />
   <img src="/assets/img/headshots/Cassia Cai.jpeg" />
   <img src="/assets/img/headshots/Emma Heitmann.jpeg" />
