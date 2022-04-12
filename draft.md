@@ -79,7 +79,7 @@ title: Meet the Executive Committee
   <img src="/assets/img/headshots/Katherine Hasnain profile pic (2).jpeg" />
   <img src="/assets/img/headshots/Kristen Falcinelli.jpeg" />
   <img src="/assets/img/headshots/LeBlanc_Danielle.jpeg" />
-  <img src="/assets/img/headshots/Amy Liu.jpeg" />
+  <img src="/assets/img/headshots/Amy Liu.jpg" />
   <img src="/assets/img/headshots/Doubleday_Annie2..jpeg" />
   <img src="/assets/img/headshots/Emmy_Hallett.jpeg" />
   <img src="/assets/img/headshots/lhahn.jpeg" />
