@@ -62,24 +62,34 @@ title: Meet the Executive Committee
 
 <p>Shawn Wang</p>
 
-<p>Lin Yao1</p> 
+<p>Lin Yao</p> 
 
     </div>
   </div>
 </div>
 
 <div class="container-fluid">
-    <!-- <h3 class="text-center mt-3">DISPLAY ALL IMAGES FROM DIRECTORY/FOLDER</h3>
-    <h5 class="text-center">Responsive Grid Image Gallery Using PHP AND BOOTSTRAP</h5> -->
     <h1>Committee Members</h1>
 <div class="myGallery">
+  <img src="/assets/img/headshots/Puxley_Bryony.jpeg" />
   <img src="/assets/img/headshots/Cassia Cai.jpg" />
   <img src="/assets/img/headshots/Emma Heitmann.jpg" />
-  <img src="/assets/img/headshots/Hemalatha Velappan.jpg" />
+  <img src="/assets/img/headshots/Hemalatha_Velappan_2.jpg" />
   <img src="/assets/img/headshots/Katherine Hasnain profile pic (2).JPG" />
   <img src="/assets/img/headshots/Kristen Falcinelli.jpg" />
   <img src="/assets/img/headshots/LeBlanc_Danielle.jpeg" />
-  <img src="/assets/img/headshots/Puxley_Bryony.jpeg" />
+  <img src="/assets/img/headshots/Amy Liu.DNG" />
+  <img src="/assets/img/headshots/Doubleday_Annie2..JPG" />
+  <img src="/assets/img/headshots/Emmy_Hallett.JPG" />
+  <img src="/assets/img/headshots/lhahn.JPG" />
+  <img src="/assets/img/headshots/Lin_Yao.jpg" />
+  <img src="/assets/img/headshots/Mahesh_Ankur-GCC Cropped.jpg" />
+  <img src="/assets/img/headshots/Oghenekevwe_Oghenechovwen.jpeg" />
+  <img src="/assets/img/headshots/RebeccaLima.jpg" />
+  </div>
+</div>
+
+
   <!-- <div class="item">
     <img src="https://picsum.photos/190/190?11" />
     <span class="caption">This is an image caption for image 11</span>
