@@ -8,7 +8,6 @@ title: Meet the Executive Committee
 
 <div class=" container-md " role="main">
   <div class="row">
-    <!-- <div class=" col-xl-8 offset-xl-2 col-lg-10 offset-lg-1 "> -->
     <div class=" col ">
       
 
@@ -63,8 +62,6 @@ title: Meet the Executive Committee
 <p>Shawn Wang</p>
 
 <p>Lin Yao</p> 
-
-    </ div>
   </div>
 </div>
 
@@ -73,7 +70,7 @@ title: Meet the Executive Committee
 <div class="myGallery">
   <img src="/assets/img/headshots/Rebecca_ClevelandStout.jpg" />
   <img src="/assets/img/headshots/Puxley_Bryony.jpeg" />
-  <!-- <img src="/assets/img/headshots/Cassia Cai.jpeg" />
+  <img src="/assets/img/headshots/Cassia Cai.jpeg" />
   <img src="/assets/img/headshots/Emma Heitmann.jpeg" />
   <img src="/assets/img/headshots/Hemalatha_Velappan_2.jpeg" />
   <img src="/assets/img/headshots/Katherine Hasnain profile pic (2).jpeg" />
@@ -86,4 +83,7 @@ title: Meet the Executive Committee
   <img src="/assets/img/headshots/Lin_Yao.jpeg" />
   <img src="/assets/img/headshots/Mahesh_Ankur-GCC Cropped.jpeg" />
   <img src="/assets/img/headshots/Oghenekevwe_Oghenechovwen.jpeg" />
-  <img src="/assets/img/headshots/RebeccaLima.jpeg" /> -->
+  <img src="/assets/img/headshots/RebeccaLima.jpeg" />
+
+</div>
+</div>
