@@ -91,6 +91,7 @@ title: Meet the Executive Committee
   <img src="/assets/img/headshots/Mahesh_Ankur-GCC Cropped.jpeg" />
   <img src="/assets/img/headshots/Oghenekevwe_Oghenechovwen.jpeg" />
   <img src="/assets/img/headshots/RebeccaLima.jpeg" />
+  <img src="/assets/img/headshots/Celeste_Tong.jpg" />
 
 </div>
 </div>
