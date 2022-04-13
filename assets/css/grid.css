@@ -10,7 +10,7 @@
   
   .myGallery img {
     width: 250px;
-    /* max-width: 200px */
+    max-width: 250px;
   }
   
   /*
@@ -25,6 +25,7 @@
   
   .myGallery .item img {
     vertical-align: middle;
+    justify-content: center;
   }
   
   .myGallery .caption {
