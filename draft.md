@@ -80,7 +80,7 @@ title: Meet the Executive Committee
       <div class="textleft">• Social</div>
       <div class="textleft">• Abstracts</div>
     </div>
-    <!-- <div class="textcenter">Cassia Cai</div> -->
+    <div class="textcenter">Cassia Cai</div>
    </div>
    <div class="container1">
     <img class="small" src="/assets/img/headshots/Emma Heitmann.jpeg">
@@ -89,11 +89,12 @@ title: Meet the Executive Committee
       <div class="textleft">• Social</div>
       <div class="textleft">• Abstracts</div>
     </div>
-    <!-- <div class="textcenter">Emma Heitmann</div> -->
+    <div class="textcenter">Emma Heitmann</div>
    </div>
 </div>
 
-<!-- <div class="container">
+<h1>Works</h1>
+<div class="container">
    <img class="small" src="/assets/img/headshots/Cassia Cai.jpeg" />
    <img class="small" src="/assets/img/headshots/Emma Heitmann.jpeg" />
    <img class="small" src="/assets/img/headshots/Hemalatha_Velappan_2.jpeg" />
@@ -109,4 +110,4 @@ title: Meet the Executive Committee
    <img class="small" src="/assets/img/headshots/Oghenekevwe_Oghenechovwen.jpeg" />
    <img class="small" src="/assets/img/headshots/RebeccaLima.jpeg" />
    <img class="small" src="/assets/img/headshots/Celeste_Tong.jpg" />
-</div> -->
+</div>
