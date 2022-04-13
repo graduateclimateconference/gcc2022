@@ -91,6 +91,8 @@ body {
     font-weight: 600;
     letter-spacing: 0.03ch;
     transition: 200ms transform ease;
+    text-align: bottom;
+    vertical-align: bottom;
   }
   
   .profile p {
