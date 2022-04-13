@@ -246,7 +246,7 @@ defaults:
       path: "" # any file that's not a post will be a "page" layout by default
     values:
       layout: "page"
-      cover-img: ["assets/img/rainier1.jpg" : "Mount Rainier", "assets/img/GCC2018.jpeg" : "GCC 2018", "assets/img/pack1.jpeg" : "Pack Forest Facilities", "assets/img/packforest.jpeg" : "Pack Forest"]
+      cover-img: ["assets/img/rainier1.png" : "Mount Rainier", "assets/img/GCC2018.jpeg" : "GCC 2018", "assets/img/pack1.jpeg" : "Pack Forest Facilities", "assets/img/packforest.jpeg" : "Pack Forest"]
 
 # Exclude these files from production site
 exclude:
