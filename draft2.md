@@ -118,7 +118,7 @@ subtitle: GCC 2022 Executive Committee
       </div>
       <div>
         <div class="profile">
-          <h2 class="profile__name3">Danielle LeBlanc</h2>
+          <h2 class="profile__name">Danielle LeBlanc</h2>
           <p>- Fundraising<br>- Recording</p>
           <img alt="Danielle LeBlanc" src="/assets/img/headshots/LeBlanc_Danielle.jpeg" />
         </div>

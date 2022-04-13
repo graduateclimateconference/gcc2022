@@ -44,13 +44,7 @@ body {
   .profile__name {
     color: #000000;
     position: absolute;
-    bottom: 50%;
-  }
-
-  .profile__name3 {
-    color: #000000;
-    position: absolute;
-    bottom: 55%;
+    bottom: 58%;
   }
   
   .profile {
