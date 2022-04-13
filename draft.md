@@ -71,7 +71,26 @@ title: Meet the Executive Committee
 </div>
 
 
-<div class="container-fluid">
+<div class="container">
+   <img class="small" src="/assets/img/headshots/Cassia Cai.jpeg" />
+   <img class="small" src="/assets/img/headshots/Emma Heitmann.jpeg" />
+   <img class="small" src="/assets/img/headshots/Hemalatha_Velappan_2.jpeg" />
+   <img class="small" src="/assets/img/headshots/Katherine Hasnain profile pic (2).jpeg" />
+   <img class="small" src="/assets/img/headshots/Kristen Falcinelli.jpeg" />
+   <img class="small" src="/assets/img/headshots/LeBlanc_Danielle.jpeg" />
+   <img class="small" src="/assets/img/headshots/Amy Liu.jpg" />
+   <img class="small" src="/assets/img/headshots/Doubleday_Annie2..jpeg" />
+   <img class="small" src="/assets/img/headshots/Emmy_Hallett.jpeg" />
+   <img class="small" src="/assets/img/headshots/lhahn.jpeg" />
+   <img class="small" src="/assets/img/headshots/Lin_Yao.jpeg" />
+   <img class="small" src="/assets/img/headshots/Mahesh_Ankur-GCC Cropped.jpeg" />
+   <img class="small" src="/assets/img/headshots/Oghenekevwe_Oghenechovwen.jpeg" />
+   <img class="small" src="/assets/img/headshots/RebeccaLima.jpeg" />
+   <img class="small" src="/assets/img/headshots/Celeste_Tong.jpg" />
+</div>
+
+
+<!-- <div class="container-fluid">
     <h1>Committee Members</h1>
 <div class="myGallery">
   <img src="/assets/img/headshots/Cassia Cai.jpeg" />
@@ -91,4 +110,4 @@ title: Meet the Executive Committee
   <img src="/assets/img/headshots/Celeste_Tong.jpg" />
 
 </div>
-</div>
+</div> -->
