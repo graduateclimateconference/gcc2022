@@ -46,6 +46,12 @@ body {
     position: absolute;
     bottom: 50%;
   }
+
+  .profile__name3 {
+    color: #000000;
+    position: absolute;
+    bottom: 50%;
+  }
   
   .profile {
     display: flex;
@@ -74,14 +80,14 @@ body {
   .profile::before {
   background: linear-gradient(
     to top,
-    hsl(100 100% 100% / 0.79) 0%,
-    hsl(100 100% 100% / 0.7) 7.8%,
-    hsl(100 100% 100% / 0.6) 14.4%,
-    hsl(100 100% 100% / 0.5) 20.2%,
-    hsl(100 100% 100% / 0.4) 25.3%,
-    hsl(100 100% 100% / 0.3) 29.9%,
-    hsl(100 100% 100% / 0.2) 34.3%,
-    hsl(100 100% 100% / 0.1) 38.7%,
+    hsl(100 100% 100% / 0.7) 0%,
+    hsl(100 100% 100% / 0.6) 7.8%,
+    hsl(100 100% 100% / 0.5) 14.4%,
+    hsl(100 100% 100% / 0.4) 20.2%,
+    hsl(100 100% 100% / 0.3) 25.3%,
+    hsl(100 100% 100% / 0.2) 29.9%,
+    hsl(100 100% 100% / 0.1) 34.3%,
+    hsl(100 100% 100% / 0) 38.7%,
     hsl(100 100% 100% / 0) 43.3%,
     hsl(100 100% 100% / 0) 48.4%,
     hsl(100 100% 100% / 0) 54.1%,
@@ -123,6 +129,10 @@ body {
   
   .profile h2 {
     transform: translateY(5.5em);
+  }
+
+  .profile__name3 {
+      transform: translateY(200px);
   }
   
   
