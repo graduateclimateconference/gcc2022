@@ -41,7 +41,7 @@ title: Meet the Executive Committee
       <div>
         <div class="profile">
           <h2 class="profile__name">Cassia Cai</h2>
-          <p>- Communications<br>- Fundraising</p>
+          <p>- Communication<br>- Fundraising</p>
           <img alt="Cassia Cai" src="/assets/img/headshots/Cassia Cai.jpeg" />
         </div>
       </div>
@@ -55,14 +55,14 @@ title: Meet the Executive Committee
       <div>
         <div class="profile">
           <h2 class="profile__name">Annie Doubleday</h2>
-          <p>- Communications<br>- Fundraising</p>
+          <p>- Communication<br>- Fundraising</p>
           <img alt="Annie Doubleday" src="/assets/img/headshots/Doubleday_Annie2..jpeg" />
         </div>
       </div>
       <div>
         <div class="profile">
           <h2 class="profile__name">Kristen Falcinelli</h2>
-          <p>- Communications<br>- Swag</p>
+          <p>- Communication<br>- Swag</p>
           <img alt="Kristen Falcinelli" src="/assets/img/headshots/Kristen Falcinelli.jpeg" />
         </div>
       </div>
@@ -97,7 +97,7 @@ title: Meet the Executive Committee
       <div>
         <div class="profile">
           <h2 class="profile__name">Emma Heitmann</h2>
-          <p>- Logistics<br>- Communications</p>
+          <p>- Logistics<br>- Communication</p>
           <img alt="Emma Heitmann" src="/assets/img/headshots/Emma Heitmann.jpeg" />
         </div>
       </div>
@@ -153,7 +153,7 @@ title: Meet the Executive Committee
       <div>
         <div class="profile">
           <h2 class="profile__name">Oghenekevwe Oghenechovwen</h2>
-          <p>- Communications</p>
+          <p>- Communication</p>
           <img alt="Oghenekevwe Oghenechovwen" src="/assets/img/headshots/Oghenekevwe_Oghenechovwen.jpeg" />
         </div>
       </div>
@@ -174,7 +174,7 @@ title: Meet the Executive Committee
       <div>
         <div class="profile">
           <h2 class="profile__name">Hemalatha Velappan</h2>
-          <p>- Communications<br>- Logistics</p>
+          <p>- Communication<br>- Logistics</p>
           <img alt="Hemalatha Velappan" src="/assets/img/headshots/Hemalatha_Velappan_2.jpeg" />
         </div>
       </div>
@@ -188,7 +188,7 @@ title: Meet the Executive Committee
       <div>
         <div class="profile">
           <h2 class="profile__name">Lin Yao</h2>
-          <p>- Communications<br>- Website<br>- Social</p>
+          <p>- Communication<br>- Website<br>- Social</p>
           <img alt="Lin Yao" src="/assets/img/headshots/Lin_Yao.jpeg" />
         </div>
       </div>
