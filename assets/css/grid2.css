@@ -6,7 +6,6 @@ body {
   h1 {
     font-weight: 900;
     font-size: 2.7rem;
-    max-width: 20ch;
   }
   
   p {
@@ -27,6 +26,7 @@ body {
     /* grid-gap: var(--auto-grid-gap, 0); */
     grid-gap: 10px;
     padding: 0;
+    text-align: center;
   }
   
   .flow > * + * {
@@ -43,9 +43,9 @@ body {
     display: flex;
     flex-direction: column;
     justify-content: flex-end;
-    aspect-ratio: 1/1;
+    /* aspect-ratio: 1/1; */
     position: relative;
-    padding: 1.5rem;
+    padding: 1.1rem;
     color: #000000;
     backface-visibility: hidden;
     text-decoration: none;
@@ -109,6 +109,7 @@ body {
     margin: 0;
     z-index: -1;
     object-fit: cover;
+    border-radius: 10px;
     /* filter: grayscale(1); */
     transition: filter 200ms ease, transform 250ms linear;
   }
@@ -119,16 +120,16 @@ body {
   }
   
   .profile h2 {
-    font-size: 1.1rem;
-    line-height: 1.1;
-    font-weight: 900;
-    letter-spacing: 0.03ch;
+    font-size: 1rem;
+    line-height: 1;
+    font-weight: 600;
+    /* letter-spacing: 0.03ch; */
     transition: 200ms transform ease;
   }
   
   .profile p {
-    font-size: 1.1rem;
-    font-weight: 500;
+    font-size: 1rem;
+    font-weight: 400;
   }
   
   .profile p {
@@ -163,6 +164,8 @@ body {
   .profile:focus img {
     /* filter: grayscale(0); */
     opacity: 0.4;
-    transform: scale(1.05) rotate(1deg);
+    /* transform: scale(1.05) rotate(1deg); */
+    -webkit-transform: scale(1.03, 1.03);
+	transform: scale(1.03, 1.03);
   }
   

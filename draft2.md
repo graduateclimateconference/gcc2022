@@ -79,7 +79,7 @@ title: Meet the Executive Committee
       </li>
       <li>
         <div class="profile">
-          <h2 class="profile__name">Celina Harris</h2>
+          <h2 class="profile__name">Bryony Puxley</h2>
           <p>Co-chair</p>
           <img alt="Profile shot for Bryony Puxley" src="/assets/img/headshots/Puxley_Bryony.jpeg" />
         </div>
@@ -94,7 +94,8 @@ title: Meet the Executive Committee
       <li>
         <div class="profile">
           <h2 class="profile__name">Emma Heitmann</h2>
-          <p>Abstract committee</p>
+          <p>- Abstracts</p>
+          <p>- Social</p>
           <img alt="Profile shot for Nicholas Castro" src="/assets/img/headshots/Emma Heitmann.jpeg" />
         </div>
       </li>
