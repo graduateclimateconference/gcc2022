@@ -65,13 +65,26 @@ title: Meet the Executive Committee
   </div>
 </div>
 
+<h1>Conference Co-Chairs</h1>
 <div class="container">
    <img class="small" src="/assets/img/headshots/Rebecca_ClevelandStout.jpg">
    <img class="small" src="/assets/img/headshots/Puxley_Bryony.jpeg">
 </div>
 
-
+<h1>Committee Members</h1>
 <div class="container">
+   <div class="container1">
+  <img class="small" src="/assets/img/headshots/Cassia Cai.jpeg" />
+  <div class="middle">
+    <div class="textcenter">Committees:</div>
+    <div class="textleft">• Social</div>
+    <div class="textleft">• Abstracts</div>
+  </div>
+  <div class="textcenter">Jane</div>
+</div>
+</div>
+
+<!-- <div class="container">
    <img class="small" src="/assets/img/headshots/Cassia Cai.jpeg" />
    <img class="small" src="/assets/img/headshots/Emma Heitmann.jpeg" />
    <img class="small" src="/assets/img/headshots/Hemalatha_Velappan_2.jpeg" />
@@ -87,27 +100,4 @@ title: Meet the Executive Committee
    <img class="small" src="/assets/img/headshots/Oghenekevwe_Oghenechovwen.jpeg" />
    <img class="small" src="/assets/img/headshots/RebeccaLima.jpeg" />
    <img class="small" src="/assets/img/headshots/Celeste_Tong.jpg" />
-</div>
-
-
-<!-- <div class="container-fluid">
-    <h1>Committee Members</h1>
-<div class="myGallery">
-  <img src="/assets/img/headshots/Cassia Cai.jpeg" />
-  <img src="/assets/img/headshots/Emma Heitmann.jpeg" />
-  <img src="/assets/img/headshots/Hemalatha_Velappan_2.jpeg" />
-  <img src="/assets/img/headshots/Katherine Hasnain profile pic (2).jpeg" />
-  <img src="/assets/img/headshots/Kristen Falcinelli.jpeg" />
-  <img src="/assets/img/headshots/LeBlanc_Danielle.jpeg" />
-  <img src="/assets/img/headshots/Amy Liu.jpg" />
-  <img src="/assets/img/headshots/Doubleday_Annie2..jpeg" />
-  <img src="/assets/img/headshots/Emmy_Hallett.jpeg" />
-  <img src="/assets/img/headshots/lhahn.jpeg" />
-  <img src="/assets/img/headshots/Lin_Yao.jpeg" />
-  <img src="/assets/img/headshots/Mahesh_Ankur-GCC Cropped.jpeg" />
-  <img src="/assets/img/headshots/Oghenekevwe_Oghenechovwen.jpeg" />
-  <img src="/assets/img/headshots/RebeccaLima.jpeg" />
-  <img src="/assets/img/headshots/Celeste_Tong.jpg" />
-
-</div>
 </div> -->
