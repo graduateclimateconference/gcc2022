@@ -21,7 +21,7 @@
   -ms-transform: translate(-50%, -50%);
 }
 
-.container1:hover .image {
+.container1:hover .small {
   opacity: .3;
 }
 

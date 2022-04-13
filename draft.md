@@ -74,14 +74,14 @@ title: Meet the Executive Committee
 <h1>Committee Members</h1>
 <div class="container">
    <div class="container1">
-  <img class="small" src="/assets/img/headshots/Cassia Cai.jpeg" />
-  <div class="middle">
-    <div class="textcenter">Committees:</div>
-    <div class="textleft">• Social</div>
-    <div class="textleft">• Abstracts</div>
-  </div>
-  <div class="textcenter">Jane</div>
-</div>
+    <img class="small" src="/assets/img/headshots/Cassia Cai.jpeg">
+    <div class="middle">
+      <div class="textcenter">Committees:</div>
+      <div class="textleft">• Social</div>
+      <div class="textleft">• Abstracts</div>
+    </div>
+    <div class="textcenter">Cassia Cai</div>
+   </div>
 </div>
 
 <!-- <div class="container">
