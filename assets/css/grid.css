@@ -7,9 +7,12 @@
 }
 
 .container1 {
-  display: flex;
+  display: block;
   position: relative;
   width: 200px;
+  text-align: center;
+  justify-content: center;
+  align-items: center;
 }
 
 .middle {
