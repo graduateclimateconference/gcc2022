@@ -1,13 +1,13 @@
 
 .container {
-	display: block;
+	display: flexbox;
 	width: 100%;
 	margin: 0 auto;
 	text-align: center;
 }
 
 .container1 {
-  display: block;
+  /* display: flex; */
   position: relative;
   width: 200px;
   text-align: center;
