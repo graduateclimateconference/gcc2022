@@ -117,7 +117,7 @@ title: Meet the Executive Committee
       </div>
       <div>
         <div class="profile">
-          <h2 class="profile__name">Danielle LeBlanc</h2>
+          <h2 class="profile__name3">Danielle LeBlanc</h2>
           <p>- Fundraising<br>- Recording & Evaluation</p>
           <img alt="Danielle LeBlanc" src="/assets/img/headshots/LeBlanc_Danielle.jpeg" />
         </div>
@@ -166,7 +166,7 @@ title: Meet the Executive Committee
       </div>
       <div>
         <div class="profile">
-          <h2 class="profile__name">Celeste Tong</h2>
+          <h2 class="profile__name3">Celeste Tong</h2>
           <p>- Recording & Evaluation<br>- Audio/Visual</p>
           <img alt="Celeste Tong" src="/assets/img/headshots/Celeste_Tong.jpg" />
         </div>
@@ -180,14 +180,14 @@ title: Meet the Executive Committee
       </div>
       <div>
         <div class="profile">
-          <h2 class="profile__name">Shawn Wang</h2>
+          <h2 class="profile__name3">Shawn Wang</h2>
           <p>- Logistics<br>- Audio/Visual<br>- Swag</p>
           <img alt="Shawn Wang" src="/assets/img/avatar-icon.png" />
         </div>
       </div>
       <div>
         <div class="profile">
-          <h2 class="profile__name">Lin Yao</h2>
+          <h2 class="profile__name3">Lin Yao</h2>
           <p>- Communication<br>- Website<br>- Social</p>
           <img alt="Lin Yao" src="/assets/img/headshots/Lin_Yao.jpeg" />
         </div>
