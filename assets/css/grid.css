@@ -15,7 +15,7 @@
   align-items: center;
 }
 
-.middle {
+.container1 middle {
   transition: .2s ease;
   opacity: 0;
   position: absolute;
@@ -33,13 +33,13 @@
   opacity: 1;
 }
 
-.middle textcenter {
+.container1 textcenter {
   
   color: black;
   font-size: 1 rem;
   text-align: center
 }
-.middle textleft {
+.container1 textleft {
   
   color: black;
   font-size: 1 rem;
@@ -60,7 +60,7 @@
 	transform: scale(1.03, 1.03);
 }
 
-.container small {
+small {
 	width: 200px;
 	height: auto;
 	position: relative;
@@ -69,7 +69,7 @@
   transition: .5s ease;
   backface-visibility: hidden;
 }
-.container small:hover {
+small:hover {
 	-webkit-transform: scale(1.03, 1.03);
 	transform: scale(1.03, 1.03);
 }
