@@ -70,34 +70,34 @@ title: Meet the Executive Committee
   <p>Hover or focus over each card to see the person’s committee roles.</p>
   <div class="team">
     <ul class="auto-grid" role="list">
-      <li>
+      <div>
         <div class="profile">
           <h2 class="profile__name">Becca Cleveland Stout</h2>
           <p>Co-chair</p>
           <img alt="Becca Cleveland Stout" src="/assets/img/headshots/Rebecca_ClevelandStout.jpg" />
         </div>
-      </li>
-      <li>
+      </div>
+      <div>
         <div class="profile">
           <h2 class="profile__name">Bryony Puxley</h2>
           <p>Co-chair</p>
           <img alt="Profile shot for Bryony Puxley" src="/assets/img/headshots/Puxley_Bryony.jpeg" />
         </div>
-      </li>
-      <li>
+      </div>
+      <div>
         <div class="profile">
           <h2 class="profile__name">Cassia Cai</h2>
           <p>Social committee</p>
           <img alt="Profile shot for Cassia Cai" src="/assets/img/headshots/Cassia Cai.jpeg" />
         </div>
-      </li>
-      <li>
+      </div>
+      <div>
         <div class="profile">
           <h2 class="profile__name">Emma Heitmann</h2>
           <p>- Abstracts <br> -Social </p>
           <img alt="Profile shot for Nicholas Castro" src="/assets/img/headshots/Emma Heitmann.jpeg" />
         </div>
-      </li>
+      </div>
     </ul>
   </div>
 </article>
