@@ -50,7 +50,7 @@ body {
   .profile__name3 {
     color: #000000;
     position: absolute;
-    bottom: 50%;
+    bottom: 55%;
   }
   
   .profile {
@@ -128,11 +128,7 @@ body {
   }
   
   .profile h2 {
-    transform: translateY(5.5em);
-  }
-
-  .profile__name3 {
-      transform: translateY(200px);
+    transform: translateY(6.5em);
   }
   
   
