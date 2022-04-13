@@ -179,7 +179,7 @@ title: Meet the Executive Committee
         <div class="profile">
           <h2 class="profile__name">Rebecca Lima</h2>
           <p>- Committee</p>
-          <img alt="Rebecca Lima" src="/assets/img/headshots/RebaccaLima.jpeg" />
+          <img alt="Rebecca Lima" src="/assets/img/headshots/RebeccaLima.jpeg" />
         </div>
       </div>
       <div>
