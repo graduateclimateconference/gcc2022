@@ -81,21 +81,21 @@ title: Meet the Executive Committee
         <div class="profile">
           <h2 class="profile__name">Bryony Puxley</h2>
           <p>Co-chair</p>
-          <img alt="Profile shot for Bryony Puxley" src="/assets/img/headshots/Puxley_Bryony.jpeg" />
+          <img alt="Bryony Puxley" src="/assets/img/headshots/Puxley_Bryony.jpeg" />
         </div>
       </div>
       <div>
         <div class="profile">
           <h2 class="profile__name">Cassia Cai</h2>
-          <p>Social committee</p>
-          <img alt="Profile shot for Cassia Cai" src="/assets/img/headshots/Cassia Cai.jpeg" />
+          <p>Committees</p>
+          <img alt="Cassia Cai" src="/assets/img/headshots/Cassia Cai.jpeg" />
         </div>
       </div>
       <div>
         <div class="profile">
           <h2 class="profile__name">Emma Heitmann</h2>
-          <p>- Abstracts <br> -Social </p>
-          <img alt="Profile shot for Nicholas Castro" src="/assets/img/headshots/Emma Heitmann.jpeg" />
+          <p>- Abstracts<br>- Social</p>
+          <img alt="Emma Heitmann" src="/assets/img/headshots/Emma Heitmann.jpeg" />
         </div>
       </div>
     </ul>

@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Justice, Equity, Diversity, and Inclusion
-subtitle: JEDI at the Graduate Climate Conference
+title: Diversity, Equity, Inclusion, and Justice
+subtitle: DEIJ at the Graduate Climate Conference
 ---
 
 > This page is being updated.
@@ -23,7 +23,7 @@ Specific actions that the GCC will take in order to ensure an equitable and incl
     - Participants will be prompted to identify their pronouns upon registering, and during the Q&A sessions, moderators will strive to maintain a balance between individuals of different identities when soliciting questions.
     - GCC organizers will conduct a survey at the end of the conference to collect feedback on conference diversity, equity, and inclusivity and what future GCCs might do better.
 
-# Justice, Equity, Diversity, and Inclusion at the GCC
+# Diversity, Equity, Inclusion, and Justice at the GCC
 
 We will have two keynote speakers at the GCC: a speaker to discuss justice,  equity, diversity, and inclusion (JEDI), and an early career scientist with a unique perspective on career paths in research, academia, science communication, and beyond.
 
