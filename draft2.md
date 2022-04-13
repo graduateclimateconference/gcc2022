@@ -2,6 +2,7 @@
 layout: page
 title: Meet the Organizers
 subtitle: GCC 2022 Executive Committee
+cover-img: "/assets/img/rainier1.jpg"
 ---
 
 <link rel="stylesheet" type="text/css" href="/assets/css/grid3.css">
