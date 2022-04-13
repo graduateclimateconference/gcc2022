@@ -26,6 +26,7 @@ body {
     /* grid-gap: var(--auto-grid-gap, 0); */
     grid-gap: 10px;
     padding: 0;
+    width: 100%;
   }
   
   .flow > * + * {
@@ -115,7 +116,7 @@ body {
   
   .profile h2,
   .profile p {
-    transform: translateY(2ex);
+    transform: translateY(50%);
   }
   
   .profile h2 {
