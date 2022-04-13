@@ -6,6 +6,7 @@ body {
   h1 {
     font-weight: 900;
     font-size: 2.7rem;
+    text-align: center;
   }
   
   p {
@@ -27,6 +28,7 @@ body {
     grid-gap: 10px;
     padding: 0;
     width: 100%;
+    margin: 0 auto;
   }
   
   .flow > * + * {
@@ -125,7 +127,7 @@ body {
   
   
   .profile p {
-    transform: translateY(1em);
+    transform: translateY(2em);
   }
   
   .profile h2 {
