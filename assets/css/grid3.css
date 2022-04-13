@@ -42,7 +42,7 @@ body {
   .profile__name {
     color: #000000;
     position: absolute;
-    bottom: 50%;
+    bottom: 60%;
   }
   
   .profile {
@@ -130,7 +130,7 @@ body {
   
   .profile h2 {
     font-size: 1rem;
-    line-height: 0;
+    line-height: 1.05;
     font-weight: 600;
     letter-spacing: 0.03ch;
     transition: 200ms transform ease;
