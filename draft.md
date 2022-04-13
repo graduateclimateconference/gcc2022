@@ -82,6 +82,15 @@ title: Meet the Executive Committee
     </div>
     <div class="textcenter">Cassia Cai</div>
    </div>
+   <div class="container1">
+    <img class="small" src="/assets/img/headshots/Emma Heitmann.jpeg">
+    <div class="middle">
+      <div class="textcenter">Committees:</div>
+      <div class="textleft">• Social</div>
+      <div class="textleft">• Abstracts</div>
+    </div>
+    <div class="textcenter">Emma Heitmann</div>
+   </div>
 </div>
 
 <!-- <div class="container">
