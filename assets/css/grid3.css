@@ -46,12 +46,6 @@ body {
     position: absolute;
     bottom: 50%;
   }
-
-  .profile__name3 {
-    color: #000000;
-    position: absolute;
-    bottom: 50%;
-  }
   
   .profile {
     display: flex;

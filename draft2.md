@@ -1,6 +1,7 @@
 ---
 layout: page
-title: Meet the Executive Committee
+title: Meet the Organizers
+subtitle: GCC 2022 Executive Committee
 ---
 
 <link rel="stylesheet" type="text/css" href="/assets/css/grid3.css">
@@ -166,7 +167,7 @@ title: Meet the Executive Committee
       </div>
       <div>
         <div class="profile">
-          <h2 class="profile__name3">Celeste Tong</h2>
+          <h2 class="profile__name">Celeste Tong</h2>
           <p>- Recording<br>- Audio/Visual</p>
           <img alt="Celeste Tong" src="/assets/img/headshots/Celeste_Tong.jpg" />
         </div>
@@ -180,15 +181,15 @@ title: Meet the Executive Committee
       </div>
       <div>
         <div class="profile">
-          <h2 class="profile__name3">Shawn Wang</h2>
-          <p>- Logistics<br>- Audio/Visual<br>- Swag</p>
+          <h2 class="profile__name">Shawn Wang</h2>
+          <p>- Logistics<br>- Audio/Visual  & - Swag</p>
           <img alt="Shawn Wang" src="/assets/img/avatar-icon.png" />
         </div>
       </div>
       <div>
         <div class="profile">
-          <h2 class="profile__name3">Lin Yao</h2>
-          <p> <style text-align: center> - Communication<br>- Website   - Social</p>
+          <h2 class="profile__name">Lin Yao</h2>
+          <p>- Communication<br>- Website  & - Social</p>
           <img alt="Lin Yao" src="/assets/img/headshots/Lin_Yao.jpeg" />
         </div>
       </div>
