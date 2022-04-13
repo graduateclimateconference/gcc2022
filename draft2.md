@@ -13,14 +13,14 @@ subtitle: GCC 2022 Executive Committee
       <div>
         <div class="profile">
           <h2 class="profile__name">Becca Cleveland Stout</h2>
-          <p>Co-chair</p>
+          <p>Co-chair<br> <br> <br></p>
           <img alt="Becca Cleveland Stout" src="/assets/img/headshots/Rebecca_ClevelandStout.jpg" />
         </div>
       </div>
       <div>
         <div class="profile">
           <h2 class="profile__name">Bryony Puxley</h2>
-          <p>Co-chair</p>
+          <p>Co-chair<br> <br> <br></p>
           <img alt="Bryony Puxley" src="/assets/img/headshots/Puxley_Bryony.jpeg" />
         </div>
       </div>
@@ -35,14 +35,14 @@ subtitle: GCC 2022 Executive Committee
       <div>
         <div class="profile">
           <h2 class="profile__name">Zinka Bartolek</h2>
-          <p>- None?<br> <br> </p>
+          <p>- None?<br> <br> <br></p>
           <img alt="Zinka Bartolek" src="/assets/img/avatar-icon.png" />
         </div>
       </div>
       <div>
         <div class="profile">
           <h2 class="profile__name">Cassia Cai</h2>
-          <p>- Communication<br>- Fundraising<br> </p>
+          <p>- Communication<br>- Fundraising</p>
           <img alt="Cassia Cai" src="/assets/img/headshots/Cassia Cai.jpeg" />
         </div>
       </div>
@@ -77,14 +77,14 @@ subtitle: GCC 2022 Executive Committee
       <div>
         <div class="profile">
           <h2 class="profile__name">Lily Hahn</h2>
-          <p>- Fundraising</p>
+          <p>- Fundraising<br> <br> <br></p>
           <img alt="Lily Hahn" src="/assets/img/headshots/lhahn.jpeg" />
         </div>
       </div>
       <div>
         <div class="profile">
           <h2 class="profile__name">Emmy Hallett</h2>
-          <p>- Website</p>
+          <p>- Website<br> <br> <br></p>
           <img alt="Emmy Hallett" src="/assets/img/headshots/Emmy_Hallett.jpeg" />
         </div>
       </div>
@@ -112,7 +112,7 @@ subtitle: GCC 2022 Executive Committee
       <div>
         <div class="profile">
           <h2 class="profile__name">Lauren Hunt</h2>
-          <p>- None?</p>
+          <p>- None?<br> <br> <br></p>
           <img alt="Lauren Hunt" src="/assets/img/avatar-icon.png" />
         </div>
       </div>
@@ -126,7 +126,7 @@ subtitle: GCC 2022 Executive Committee
       <div>
         <div class="profile">
           <h2 class="profile__name">Rebecca Lima</h2>
-          <p>- Committee</p>
+          <p>- Logistics<br> <br> <br></p>
           <img alt="Rebecca Lima" src="/assets/img/headshots/RebeccaLima.jpeg" />
         </div>
       </div>
@@ -154,14 +154,14 @@ subtitle: GCC 2022 Executive Committee
       <div>
         <div class="profile">
           <h2 class="profile__name">Oghenekevwe Oghenechovwen</h2>
-          <p>- Communication</p>
+          <p>- Communication<br> <br> <br></p>
           <img alt="Oghenekevwe Oghenechovwen" src="/assets/img/headshots/Oghenekevwe_Oghenechovwen.jpeg" />
         </div>
       </div>
       <div>
         <div class="profile">
           <h2 class="profile__name">Devin Short</h2>
-          <p>- None?</p>
+          <p>- None?<br> <br> <br></p>
           <img alt="Devin Short" src="/assets/img/avatar-icon.png" />
         </div>
       </div>
