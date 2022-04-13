@@ -67,7 +67,7 @@ title: Meet the Executive Committee
 
 <article class="flow">
   <h1>Executive Committee</h1>
-  <p>Hover or focus over each card to see the person’s job title slide in and the colour treatment change.</p>
+  <p>Hover or focus over each card to see the person’s committee roles.</p>
   <div class="team">
     <ul class="auto-grid" role="list">
       <li>
@@ -88,7 +88,7 @@ title: Meet the Executive Committee
         <div class="profile">
           <h2 class="profile__name">Cassia Cai</h2>
           <p>Social committee</p>
-          <img alt="Profile shot for Cassia Cai" src="/assets/img/headshots/Cassia Cai.jpg" />
+          <img alt="Profile shot for Cassia Cai" src="/assets/img/headshots/Cassia Cai.jpeg" />
         </div>
       </li>
       <li>
