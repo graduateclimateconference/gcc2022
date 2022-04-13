@@ -35,14 +35,14 @@ subtitle: GCC 2022 Executive Committee
       <div>
         <div class="profile">
           <h2 class="profile__name">Zinka Bartolek</h2>
-          <p>- None?</p>
+          <p>- None?<br><br></p>
           <img alt="Zinka Bartolek" src="/assets/img/avatar-icon.png" />
         </div>
       </div>
       <div>
         <div class="profile">
           <h2 class="profile__name">Cassia Cai</h2>
-          <p>- Communication<br>- Fundraising</p>
+          <p>- Communication<br>- Fundraising<br></p>
           <img alt="Cassia Cai" src="/assets/img/headshots/Cassia Cai.jpeg" />
         </div>
       </div>
@@ -119,7 +119,7 @@ subtitle: GCC 2022 Executive Committee
       <div>
         <div class="profile">
           <h2 class="profile__name">Danielle LeBlanc</h2>
-          <p>- Fundraising<br>- Recording</p>
+          <p>- Fundraising<br>- Recording<br></p>
           <img alt="Danielle LeBlanc" src="/assets/img/headshots/LeBlanc_Danielle.jpeg" />
         </div>
       </div>

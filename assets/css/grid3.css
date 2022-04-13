@@ -44,7 +44,7 @@ body {
   .profile__name {
     color: #000000;
     position: absolute;
-    bottom: 58%;
+    bottom: 60%;
   }
   
   .profile {
@@ -122,12 +122,12 @@ body {
   }
   
   .profile h2 {
-    transform: translateY(6.5em);
+    transform: translateY(6.8em);
   }
   
   
   .profile p {
-    transform: translateY(0.5em);
+    transform: translateY(2em);
   }
   
   .profile h2 {
