@@ -94,8 +94,7 @@ title: Meet the Executive Committee
       <li>
         <div class="profile">
           <h2 class="profile__name">Emma Heitmann</h2>
-          <p>- Abstracts</p>
-          <p>- Social</p>
+          <p>- Abstracts <br> -Social </p>
           <img alt="Profile shot for Nicholas Castro" src="/assets/img/headshots/Emma Heitmann.jpeg" />
         </div>
       </li>
