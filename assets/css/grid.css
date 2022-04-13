@@ -2,6 +2,24 @@
   The grid itself needs only 4 CSS declarations:
 */
 
+.container {
+	display: block;
+	max-width: 800px;
+	margin: 0 auto;
+	text-align: center;
+}
+.small {
+	width: 180px;
+	height: auto;
+	position: relative;
+	margin: 3px;
+	border-radius: 5px;
+}
+.small:hover {
+	-webkit-transform: scale(1.03, 1.03);
+	transform: scale(1.03, 1.03);
+}
+
 .myGallery {
     display: grid;
     grid-gap: 20px;

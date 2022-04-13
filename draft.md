@@ -65,12 +65,9 @@ title: Meet the Executive Committee
   </div>
 </div>
 
-<div class="container-fluid">
-    <h1>Conference Co-Chairs</h1>
-<div class="myGallery", grid-template-columns: 200px 200 px>
-  <img src="/assets/img/headshots/Rebecca_ClevelandStout.jpg" />
-  <img src="/assets/img/headshots/Puxley_Bryony.jpeg" />
-</div>
+<div class="container">
+   <img class="small" src="/assets/img/headshots/Rebecca_ClevelandStout.jpg">
+   <img class="small" src="/assets/img/headshots/Puxley_Bryony.jpeg">
 </div>
 
 
