@@ -13,14 +13,14 @@ subtitle: GCC 2022 Executive Committee
       <div>
         <div class="profile">
           <h2 class="profile__name">Becca Cleveland Stout</h2>
-          <p>Co-chair<br> <br> <br></p>
+          <p>Co-chair<br> <br> </p>
           <img alt="Becca Cleveland Stout" src="/assets/img/headshots/Rebecca_ClevelandStout.jpg" />
         </div>
       </div>
       <div>
         <div class="profile">
           <h2 class="profile__name">Bryony Puxley</h2>
-          <p>Co-chair<br> <br> <br></p>
+          <p>Co-chair<br> <br> </p>
           <img alt="Bryony Puxley" src="/assets/img/headshots/Puxley_Bryony.jpeg" />
         </div>
       </div>
@@ -32,13 +32,13 @@ subtitle: GCC 2022 Executive Committee
   <h1>Executive Committee</h1>
   <div class="team">
     <ul class="auto-grid" role="list">
-      <div>
+      <!-- <div>
         <div class="profile">
           <h2 class="profile__name">Zinka Bartolek</h2>
-          <p>- None?<br> <br> <br></p>
+          <p>- None?<br> <br> </p>
           <img alt="Zinka Bartolek" src="/assets/img/avatar-icon.png" />
         </div>
-      </div>
+      </div> -->
       <div>
         <div class="profile">
           <h2 class="profile__name">Cassia Cai</h2>
@@ -56,7 +56,7 @@ subtitle: GCC 2022 Executive Committee
       <div>
         <div class="profile">
           <h2 class="profile__name">Annie Doubleday</h2>
-          <p>- Communication<br>- Fundraising</p>
+          <p>- Communication<br>- Logistics</p>
           <img alt="Annie Doubleday" src="/assets/img/headshots/Doubleday_Annie2..jpeg" />
         </div>
       </div>
@@ -71,20 +71,20 @@ subtitle: GCC 2022 Executive Committee
         <div class="profile">
           <h2 class="profile__name">Mariya Galochkina</h2>
           <p>- Abstracts<br>- Audio/Visual</p>
-          <img alt="Mariya Galochkina" src="/assets/img/avatar-icon.png" />
+          <img alt="Mariya Galochkina" src="/assets/img/headshots/Mariya Galochkina.jpeg" />
         </div>
       </div>
       <div>
         <div class="profile">
           <h2 class="profile__name">Lily Hahn</h2>
-          <p>- Fundraising<br> <br> <br></p>
+          <p>- Fundraising<br> <br> </p>
           <img alt="Lily Hahn" src="/assets/img/headshots/lhahn.jpeg" />
         </div>
       </div>
       <div>
         <div class="profile">
           <h2 class="profile__name">Emmy Hallett</h2>
-          <p>- Website<br> <br> <br></p>
+          <p>- Website<br> <br> </p>
           <img alt="Emmy Hallett" src="/assets/img/headshots/Emmy_Hallett.jpeg" />
         </div>
       </div>
@@ -109,24 +109,24 @@ subtitle: GCC 2022 Executive Committee
           <img alt="Cora Hersh" src="/assets/img/avatar-icon.png" />
         </div>
       </div>
-      <div>
+      <!-- <div>
         <div class="profile">
           <h2 class="profile__name">Lauren Hunt</h2>
-          <p>- None?<br> <br> <br></p>
+          <p>- None?<br> <br> </p>
           <img alt="Lauren Hunt" src="/assets/img/avatar-icon.png" />
         </div>
-      </div>
+      </div> -->
       <div>
         <div class="profile">
           <h2 class="profile__name">Danielle LeBlanc</h2>
-          <p>- Fundraising<br>- Recording<br></p>
+          <p>- Fundraising<br>- Recording</p>
           <img alt="Danielle LeBlanc" src="/assets/img/headshots/LeBlanc_Danielle.jpeg" />
         </div>
       </div>
       <div>
         <div class="profile">
           <h2 class="profile__name">Rebecca Lima</h2>
-          <p>- Logistics<br> <br> <br></p>
+          <p>- Logistics<br>-Audio/Visual<br>Recording</p>
           <img alt="Rebecca Lima" src="/assets/img/headshots/RebeccaLima.jpeg" />
         </div>
       </div>
@@ -148,23 +148,23 @@ subtitle: GCC 2022 Executive Committee
         <div class="profile">
           <h2 class="profile__name">Leslie Nguyen</h2>
           <p>- Logistics<br>- Swag</p>
-          <img alt="Leslie Nguyen" src="/assets/img/avatar-icon.png" />
+          <img alt="Leslie Nguyen" src="/assets/img/headshots/LNguyen_headshot.jpeg" />
         </div>
       </div>
       <div>
         <div class="profile">
           <h2 class="profile__name">Oghenekevwe Oghenechovwen</h2>
-          <p>- Communication<br> <br> <br></p>
+          <p>- Communication<br> <br> </p>
           <img alt="Oghenekevwe Oghenechovwen" src="/assets/img/headshots/Oghenekevwe_Oghenechovwen.jpeg" />
         </div>
       </div>
-      <div>
+      <!-- <div>
         <div class="profile">
           <h2 class="profile__name">Devin Short</h2>
-          <p>- None?<br> <br> <br></p>
+          <p>- None?<br> <br> </p>
           <img alt="Devin Short" src="/assets/img/avatar-icon.png" />
         </div>
-      </div>
+      </div> -->
       <div>
         <div class="profile">
           <h2 class="profile__name">Celeste Tong</h2>
