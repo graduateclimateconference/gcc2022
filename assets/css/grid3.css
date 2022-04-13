@@ -128,12 +128,8 @@ body {
   }
   
   .profile h2 {
-    transform: translateY(7.5em);
+    transform: translateY(5.5em);
   }
-
-  /* .profile__name3 {
-      transform: translateY(7.5em);
-  } */
   
   
   .profile p {
