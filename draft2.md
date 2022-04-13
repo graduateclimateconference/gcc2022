@@ -2,7 +2,7 @@
 layout: page
 title: Meet the Organizers
 subtitle: GCC 2022 Executive Committee
-cover-img: "/assets/img/rainier1.png"
+cover-img: "/assets/img/rainier1.jpeg"
 ---
 
 <link rel="stylesheet" type="text/css" href="/assets/css/grid3.css">
@@ -127,7 +127,7 @@ cover-img: "/assets/img/rainier1.png"
       <div>
         <div class="profile">
           <h2 class="profile__name">Rebecca Lima</h2>
-          <p>- Logistics<br>-Audio/Visual<br>Recording</p>
+          <p>- Logistics<br>-Audio/Visual<br>- Recording</p>
           <img alt="Rebecca Lima" src="/assets/img/headshots/RebeccaLima.jpeg" />
         </div>
       </div>
