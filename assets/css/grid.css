@@ -1,13 +1,15 @@
 
 .container {
-	display: flexbox;
+	display: flex;
+  flex-direction: column;
 	width: 100%;
 	margin: 0 auto;
 	text-align: center;
 }
 
 .container1 {
-  /* display: flex; */
+  display: flex;
+  flex-direction: column;
   position: relative;
   width: 200px;
   text-align: center;
