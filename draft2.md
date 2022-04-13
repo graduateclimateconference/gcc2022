@@ -3,7 +3,7 @@ layout: page
 title: Meet the Executive Committee
 ---
 
-<link rel="stylesheet" type="text/css" href="/assets/css/grid2.css">
+<link rel="stylesheet" type="text/css" href="/assets/css/grid3.css">
 
 
 <div class=" container-md " role="main">
