@@ -2,6 +2,7 @@
 layout: page
 title: Application
 subtitle: Applying to the Graduate Climate Conference
+cover-img: "/assets/img/packforest.jpeg"
 ---
 
 The application for GCC 2022 will open on Thursday April 14, 2022.

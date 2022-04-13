@@ -2,6 +2,7 @@
 layout: page
 title: FAQ
 subtitle: Frequently Asked Questions
+cover-img: "/assets/img/rainier1.jpeg"
 ---
 
 # Frequently Asked Questions
