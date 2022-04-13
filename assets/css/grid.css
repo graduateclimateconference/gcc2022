@@ -6,12 +6,12 @@
     display: grid;
     grid-gap: 20px;
     grid-template-columns: repeat(auto-fit, minmax(150px, 1fr));
-    justify-content: space-evenly;
+    justify-content: center;
   }
   
   .myGallery img {
-    width: 100%;
-    max-width: 300px;
+    width: 250px;
+    /* max-width: 300px; */
   }
   
   /*
