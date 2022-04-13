@@ -74,7 +74,7 @@ title: Meet the Executive Committee
 <h1>Committee Members</h1>
 <div class="container">
    <div class="container1">
-    <img class="small" src="/assets/img/headshots/Cassia Cai.jpeg">
+    <img class="small" src="/assets/img/headshots/Cassia Cai.jpeg" />
     <div class="middle">
       <div class="textcenter">Committees:</div>
       <div class="textleft">• Social</div>
@@ -83,7 +83,7 @@ title: Meet the Executive Committee
     <div class="textcenter">Cassia Cai</div>
    </div>
    <div class="container1">
-    <img class="small" src="/assets/img/headshots/Emma Heitmann.jpeg">
+    <img class="small" src="/assets/img/headshots/Emma Heitmann.jpeg" />
     <div class="middle">
       <div class="textcenter">Committees:</div>
       <div class="textleft">• Social</div>
@@ -95,10 +95,10 @@ title: Meet the Executive Committee
 
 <h1>Works</h1>
 <div class="container">
-   <img class="small" src="/assets/img/headshots/Cassia Cai.jpeg" />
-   <img class="small" src="/assets/img/headshots/Emma Heitmann.jpeg" />
-   <img class="small" src="/assets/img/headshots/Hemalatha_Velappan_2.jpeg" />
-   <img class="small" src="/assets/img/headshots/Katherine Hasnain profile pic (2).jpeg" />
+   <img class="small" src="/assets/img/headshots/Cassia Cai.jpeg">
+   <img class="small" src="/assets/img/headshots/Emma Heitmann.jpeg">
+   <img class="small" src="/assets/img/headshots/Hemalatha_Velappan_2.jpeg">
+   <img class="small" src="/assets/img/headshots/Katherine Hasnain profile pic (2).jpeg">
    <img class="small" src="/assets/img/headshots/Kristen Falcinelli.jpeg" />
    <img class="small" src="/assets/img/headshots/LeBlanc_Danielle.jpeg" />
    <img class="small" src="/assets/img/headshots/Amy Liu.jpg" />
