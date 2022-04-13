@@ -12,6 +12,7 @@
   .myGallery img {
     width: 250px;
     /* max-width: 300px; */
+    justify-content: center;
   }
   
   /*
@@ -22,6 +23,7 @@
   .myGallery .item {
     position: relative;
     overflow: hidden;
+    justify-content: center;
   }
   
   .myGallery .item img {
