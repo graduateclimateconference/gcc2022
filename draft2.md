@@ -35,14 +35,14 @@ subtitle: GCC 2022 Executive Committee
       <div>
         <div class="profile">
           <h2 class="profile__name">Zinka Bartolek</h2>
-          <p>- None?<br><br></p>
+          <p>- None?<br> <br> </p>
           <img alt="Zinka Bartolek" src="/assets/img/avatar-icon.png" />
         </div>
       </div>
       <div>
         <div class="profile">
           <h2 class="profile__name">Cassia Cai</h2>
-          <p>- Communication<br>- Fundraising<br></p>
+          <p>- Communication<br>- Fundraising<br> </p>
           <img alt="Cassia Cai" src="/assets/img/headshots/Cassia Cai.jpeg" />
         </div>
       </div>
@@ -182,14 +182,14 @@ subtitle: GCC 2022 Executive Committee
       <div>
         <div class="profile">
           <h2 class="profile__name">Shawn Wang</h2>
-          <p>- Logistics<br>- Audio/Visual  & - Swag</p>
+          <p>- Logistics<br>- Audio/Visual<br>- Swag</p>
           <img alt="Shawn Wang" src="/assets/img/avatar-icon.png" />
         </div>
       </div>
       <div>
         <div class="profile">
           <h2 class="profile__name">Lin Yao</h2>
-          <p>- Communication<br>- Website  & - Social</p>
+          <p>- Communication<br>- Website<br>- Social</p>
           <img alt="Lin Yao" src="/assets/img/headshots/Lin_Yao.jpeg" />
         </div>
       </div>
