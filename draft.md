@@ -66,10 +66,17 @@ title: Meet the Executive Committee
 </div>
 
 <div class="container-fluid">
-    <h1>Committee Members</h1>
+    <h1>Conference Co-Chairs</h1>
 <div class="myGallery">
   <img src="/assets/img/headshots/Rebecca_ClevelandStout.jpg" />
   <img src="/assets/img/headshots/Puxley_Bryony.jpeg" />
+</div>
+</div>
+
+
+<div class="container-fluid">
+    <h1>Committee Members</h1>
+<div class="myGallery">
   <img src="/assets/img/headshots/Cassia Cai.jpeg" />
   <img src="/assets/img/headshots/Emma Heitmann.jpeg" />
   <img src="/assets/img/headshots/Hemalatha_Velappan_2.jpeg" />
