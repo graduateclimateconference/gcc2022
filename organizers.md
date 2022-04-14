@@ -107,7 +107,7 @@ cover-img: "/assets/img/rainier1.jpeg"
         <div class="profile">
           <h2 class="profile__name">Cora Hersh</h2>
           <p>- Social<br>- Swag</p>
-          <img alt="Cora Hersh" src="/assets/img/avatar-icon.png" />
+          <img alt="Cora Hersh" src="/assets/img/headshots/Hersh_Cora.jpeg" />
         </div>
       </div>
       <!-- <div>
@@ -184,7 +184,7 @@ cover-img: "/assets/img/rainier1.jpeg"
         <div class="profile">
           <h2 class="profile__name">Shawn Wang</h2>
           <p>- Logistics<br>- Audio/Visual<br>- Swag</p>
-          <img alt="Shawn Wang" src="/assets/img/avatar-icon.png" />
+          <img alt="Shawn Wang" src="/assets/img/headshots/Wang_Shawn.jpeg" />
         </div>
       </div>
       <div>
