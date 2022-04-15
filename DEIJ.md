@@ -15,7 +15,7 @@ The GCC recognizes the historically colonialist and racist roots of Western scie
 Specific actions that the GCC will take in order to ensure an equitable and inclusive environment across the application process to the conference itself are:
 - Blind evaluation of all applications conducted by two committee members. 
 - Establishing clear expectations for appropriate and inclusive behavior during the conference, as laid out in the GCC Code of Conduct. 
-    - All participants will be expected to read and agree to the [GCC Code of Conduct](https://drive.google.com/a/uw.edu/open?id=1nHMSaiNSFlYr4Vz_K5EjH6hCu41g0ac5-58FyXt9Ohs){:target="_blank"} in advance of the conference. We believe that adherence to this Code of Conduct will help advance our goals of enabling and encouraging all meeting attendees to participate fully in the conference. 
+    - All participants will be expected to read and agree to the [GCC Code of Conduct](https://graduateclimateconference.github.io/pdf/GCC2022_CodeOfConduct.pdf){:target="_blank"} in advance of the conference. We believe that adherence to this Code of Conduct will help advance our goals of enabling and encouraging all meeting attendees to participate fully in the conference. 
 - Providing participants with a number of papers on diversity, equity and inclusion, that all are expected to read. These papers will be relevant to a keynote session during the GCC that will focus on topics covered by the readings. 
 - Hosting participatory workshops, of which 50% will be relevant to the topics of diversity, equity and inclusion.
 - Committing to record and evaluate the conference in the following ways:
@@ -25,6 +25,6 @@ Specific actions that the GCC will take in order to ensure an equitable and incl
 
 # Diversity, Equity, Inclusion, and Justice at the GCC
 
-We will have two keynote speakers at the GCC: a speaker to discuss justice,  equity, diversity, and inclusion (JEDI), and an early career scientist with a unique perspective on career paths in research, academia, science communication, and beyond.
+We will have two keynote speakers at the GCC: a speaker to discuss diversity, equity, inclusion, and justice (DEIJ), and an early career scientist with a unique perspective on career paths in research, academia, science communication, and beyond.
 
 > This page will be updated when the keynote speakers are announced.

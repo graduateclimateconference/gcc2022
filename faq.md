@@ -14,7 +14,10 @@ cover-img: "/assets/img/rainier1.jpeg"
     - [Where will the conference take place?](#where-will-the-conference-take-place)
     - [How are travel grants issued?](#how-are-travel-grants-issued)
     - [Are accommodations, transportation, and food included?](#are-accommodations-transportation-and-food-included)
+    - [Will the conference have a hybrid online option?](#will-the-conference-have-a-hybrid-online-option)
 - __Attending the Conference__
+    - [What is the format?](#what-is-the-format)
+    - [How many people will be there?](#how-many-people-will-be-there)
     - [What are the Sunday activities?](#what-are-the-sunday-activities)
     - [What precautions does the GCC have against COVID-19?](#what-precautions-does-the-gcc-have-against-covid-19)
 - __More__
@@ -23,11 +26,11 @@ cover-img: "/assets/img/rainier1.jpeg"
 
 ### When does the application open?
 
-The [application](https://graduateclimateconference.github.io/application/) opened on April 14th, 2022.
+The [application](https://graduateclimateconference.github.io/application/) opened on April 15th, 2022.
 
 ### When does the application close?
 
-The application will close at 11:59 PM PDT on June 1, 2022.
+The application will close at 11:59 PM EDT on June 1, 2022.
 
 ### When will I find out if my abstract was accepted?
 
@@ -43,7 +46,19 @@ Travel grants are issued as reimbursements. You must present a receipt of your e
 
 ### Are accommodations, transportation, and food included?
 
-We will provide transport between UW and Pack Forest. Conference attendees will stay in the historical cabins on site, with bedding and towels provided. Meals will also be served in the on-site dining hall. More information can be found on the [Logistics](https://graduateclimateconference.github.io/logistics/) page.
+We will provide transport between UW and Pack Forest, as well as accomodations and food during the conference. Conference attendees will stay in the historical cabins on site, with bedding and towels provided. Meals will also be served in the on-site dining hall. All meals will be vegetarian, and we will accommodate any additional dietary restrictions and allergies. More information can be found on the [Logistics](https://graduateclimateconference.github.io/logistics/) page.
+
+### Will the conference have a hybrid online option?
+
+No, the conference will be conducted entirely in-person. Attendees will be expected to travel to Seattle for the duration of the conference.
+
+### What is the format?
+
+GCC 2022 will be a mixture of oral presentations, poster presentations, attendee-led workshops, and social events. An example of a past schedule can be found [here](http://gradclimateconf.mit.edu/wp-content/uploads/2019/11/GCC-2019-Schedule-10.pdf){:target="_blank"}.
+
+### How many people will be there?
+
+Approximately 120 attendees are expected.
 
 ### What are the Sunday activities?
 

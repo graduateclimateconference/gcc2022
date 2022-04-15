@@ -19,7 +19,7 @@ Google maps and [King County Metro’s online trip planner](http://tripplanner.k
 
 We recommend riding the [Link Light Rail](http://www.soundtransit.org/rider-guide/link-light-rail){:target="_blank"} to get to UW campus from the airport. Be mindful that the Light Rail stops running between 1 AM and 5 AM Monday-Saturday and between midnight and 6 AM Sunday.
 
-Other, more expensive options include a taxi, Uber/Lyft, or [Super Shuttle](http://www.shuttlefare.com/seattle_tacoma_airport_shuttle_sea){:target="_blank}.
+Other, more expensive options include a taxi, Uber/Lyft, or [Super Shuttle](http://www.shuttlefare.com/seattle_tacoma_airport_shuttle_sea){:target="_blank"}.
 
 ### SeaTac or UW - Pack Forest:
 
