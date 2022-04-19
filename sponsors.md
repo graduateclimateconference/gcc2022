@@ -16,6 +16,7 @@ We thank our generous sponsors for their support of the GCC!
   float: left;
   padding: 10px;
   background-color: white;
+  border: 5px black;
 }
 
 .left {
@@ -35,7 +36,7 @@ We thank our generous sponsors for their support of the GCC!
 
 .top-buffer { margin-top:20px; }
 
-.img {
+a {
     margin-left: auto;
     margin-right: auto;
 }
@@ -49,7 +50,7 @@ We thank our generous sponsors for their support of the GCC!
         <a href=""><img src="/assets/img/sponsors/cee.jpeg" alt="UW Civil & Environmental Engineering"></a>
       </div>
       <div class="column left">
-        <a href=""><img src="/assets/img/sponsors/ess.jpeg" alt="UW Department of Earth and Space Sciences" style="margin-left: auto; margin-right: auto;"></a>
+        <a href=""><img src="/assets/img/sponsors/ess.jpeg" alt="UW Department of Earth and Space Sciences"></a>
       </div>
       <div class="column right">
         <a href=""><img src="/assets/img/sponsors/cicoes.png" alt="Cooperative Institute for Climate, Ocean & Ecosystem Studies"></a>
