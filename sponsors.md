@@ -11,16 +11,17 @@ subtitle: Graduate Climate Conference Sponsors
   box-sizing: border-box;
 }
 
-/* Create two unequal columns that floats next to each other */
 .column {
   float: left;
   padding: 10px;
-  background-color: white;
+  background-color: site.page-col;
   border: 5px black;
   margin-right: auto;
   margin-left: auto;
   justify-items: center;
   align-items: center;
+  text-align: center;
+  align-self: center;
 }
 
 .left {
@@ -39,11 +40,6 @@ subtitle: Graduate Climate Conference Sponsors
 }
 
 .top-buffer { margin-top:20px; }
-
-a {
-    margin-left: auto;
-    margin-right: auto;
-}
 </style>
 
 <div class="row">
