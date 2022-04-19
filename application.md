@@ -10,7 +10,7 @@ cover-img: "/assets/img/packforest.jpeg"
 <style>
 .button {
   border: none;
-  color: #8FBC8F;
+  color: #75A075;
   padding: 1rem 2rem;
   text-align: center;
   text-decoration: none;
