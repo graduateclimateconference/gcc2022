@@ -7,12 +7,10 @@ cover-img: "/assets/img/packforest.jpeg"
 
 # Application Link
 
-<!-- [Apply to the GCC!](https://docs.google.com/forms/d/e/1FAIpQLSdX2t4XdsJhbMjS5fLU9Q7ar_yZ8a0C-X_owvRt9X8P3d6zaw/viewform){:target="_blank"} -->
-
 <style>
 .button {
   border: none;
-  color: black;
+  color: #8FBC8F;
   padding: 1rem 2rem;
   text-align: center;
   text-decoration: none;
@@ -28,8 +26,9 @@ cover-img: "/assets/img/packforest.jpeg"
 
 .button:hover {
   background-color: #8FBC8F;
-  color: black;
+  color: #0085A1;
   box-shadow: 2px 2px 2px black;
+  text-decoration: underline;
 }
 </style>
 <a target="_blank" href="https://docs.google.com/forms/d/e/1FAIpQLSdX2t4XdsJhbMjS5fLU9Q7ar_yZ8a0C-X_owvRt9X8P3d6zaw/viewform">
