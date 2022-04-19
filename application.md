@@ -7,7 +7,33 @@ cover-img: "/assets/img/packforest.jpeg"
 
 # Application Link
 
-[Apply to the GCC!](https://docs.google.com/forms/d/e/1FAIpQLSdX2t4XdsJhbMjS5fLU9Q7ar_yZ8a0C-X_owvRt9X8P3d6zaw/viewform){:target="_blank"}
+<!-- [Apply to the GCC!](https://docs.google.com/forms/d/e/1FAIpQLSdX2t4XdsJhbMjS5fLU9Q7ar_yZ8a0C-X_owvRt9X8P3d6zaw/viewform){:target="_blank"} -->
+
+<style>
+.button {
+  border: none;
+  color: black;
+  padding: 1rem 2rem;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  margin: 4px 2px;
+  transition-duration: 0.3s;
+  cursor: pointer;
+  background-color: light-gray; 
+  border: 4px solid #8FBC8F;
+  border-radius: 20px;
+  box-shadow: 2px 2px 2px black;
+}
+
+.button:hover {
+  background-color: #8FBC8F;
+  color: black;
+  box-shadow: 2px 2px 2px black;
+}
+</style>
+<a target="_blank" href="https://docs.google.com/forms/d/e/1FAIpQLSdX2t4XdsJhbMjS5fLU9Q7ar_yZ8a0C-X_owvRt9X8P3d6zaw/viewform">
+<button class="button">Apply to the GCC!</button></a>
 
 The application for GCC 2022 opened on Thursday April 14, 2022. The application deadline is __11:59 PM Eastern Daylight Time on Wednesday, June 1, 2022__.
 
