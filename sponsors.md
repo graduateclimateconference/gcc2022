@@ -17,6 +17,10 @@ subtitle: Graduate Climate Conference Sponsors
   padding: 10px;
   background-color: white;
   border: 5px black;
+  margin-right: auto;
+  margin-left: auto;
+  justify-items: center;
+  align-items: center;
 }
 
 .left {
@@ -44,19 +48,19 @@ a {
 
 <div class="row">
       <div class="column left">
-        <a href="https://atmos.uw.edu/"><img src="/assets/img/sponsors/atmos.jpeg" alt="UW Atmospheric Sciences"></a>
+        <a target="_blank" href="https://atmos.uw.edu/"><img src="/assets/img/sponsors/atmos.jpeg" alt="UW Atmospheric Sciences"></a>
       </div>
       <div class="column right">
-        <a href="https://www.ce.washington.edu"><img src="/assets/img/sponsors/cee.jpeg" alt="UW Civil & Environmental Engineering"></a>
+        <a target="_blank" href="https://www.ce.washington.edu"><img src="/assets/img/sponsors/cee.jpeg" alt="UW Civil & Environmental Engineering"></a>
       </div>
       <div class="column left">
-        <a href="https://www.ess.washington.edu/"><img src="/assets/img/sponsors/ess.jpeg" alt="UW Department of Earth and Space Sciences"></a>
+        <a target="_blank" href="https://www.ess.washington.edu/"><img src="/assets/img/sponsors/ess.jpeg" alt="UW Department of Earth and Space Sciences"></a>
       </div>
       <div class="column right">
-        <a href="https://cicoes.uw.edu/"><img src="/assets/img/sponsors/cicoes.png" alt="Cooperative Institute for Climate, Ocean & Ecosystem Studies"></a>
+        <a target="_blank" href="https://cicoes.uw.edu/"><img src="/assets/img/sponsors/cicoes.png" alt="Cooperative Institute for Climate, Ocean & Ecosystem Studies"></a>
       </div>
-    <div class="column left" style="align-items: center;">
-        <a href="https://grad.uw.edu/about-the-graduate-school/" style="align-items: center;"><img src="/assets/img/sponsors/uw-grad-school.png" alt="The Graduate School, University of Washington"></a>
+    <div class="column left">
+        <a target="_blank" href="https://grad.uw.edu/about-the-graduate-school/"><img src="/assets/img/sponsors/uw-grad-school.png" alt="The Graduate School, University of Washington"></a>
     </div>
     <div class="column right">
     </div>
