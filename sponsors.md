@@ -49,7 +49,9 @@ We thank our generous sponsors for their support of the GCC!
       <div class="column right">
         <a href=""><img src="/assets/img/sponsors/cicoes.png" alt="Cooperative Institute for Climate, Ocean & Ecosystem Studies"></a>
       </div>
-    </div>
-    <div class="row top-buffer">
+</div>
+<div class="row top-buffer">
+    <div class="column left">
         <a href=""><img src="/assets/img/sponsors/uw-grad-school.png" alt="The Graduate School, University of Washington"></a>
     </div>
+</div>
