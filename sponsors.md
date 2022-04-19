@@ -44,18 +44,20 @@ a {
 
 <div class="row">
       <div class="column left">
-        <a href=""><img src="/assets/img/sponsors/atmos.jpeg" alt="UW Atmospheric Sciences"></a>
+        <a href="https://atmos.uw.edu/"><img src="/assets/img/sponsors/atmos.jpeg" alt="UW Atmospheric Sciences"></a>
       </div>
       <div class="column right">
-        <a href=""><img src="/assets/img/sponsors/cee.jpeg" alt="UW Civil & Environmental Engineering"></a>
+        <a href="https://www.ce.washington.edu"><img src="/assets/img/sponsors/cee.jpeg" alt="UW Civil & Environmental Engineering"></a>
       </div>
       <div class="column left">
-        <a href=""><img src="/assets/img/sponsors/ess.jpeg" alt="UW Department of Earth and Space Sciences"></a>
+        <a href="https://www.ess.washington.edu/"><img src="/assets/img/sponsors/ess.jpeg" alt="UW Department of Earth and Space Sciences"></a>
       </div>
       <div class="column right">
-        <a href=""><img src="/assets/img/sponsors/cicoes.png" alt="Cooperative Institute for Climate, Ocean & Ecosystem Studies"></a>
+        <a href="https://cicoes.uw.edu/"><img src="/assets/img/sponsors/cicoes.png" alt="Cooperative Institute for Climate, Ocean & Ecosystem Studies"></a>
       </div>
     <div class="column left">
-        <a href=""><img src="/assets/img/sponsors/uw-grad-school.png" alt="The Graduate School, University of Washington"></a>
+        <a href="https://grad.uw.edu/about-the-graduate-school/" style="text-align: center;"><img src="/assets/img/sponsors/uw-grad-school.png" alt="The Graduate School, University of Washington"></a>
+    </div>
+    <div class="column right">
     </div>
 </div>
