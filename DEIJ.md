@@ -8,7 +8,6 @@ subtitle: DEIJ at the Graduate Climate Conference
 
 The GCC is committed to cultivating an equitable and inclusive environment for all members of our community. The GCC believes diversity and inclusion are essential to creating a thriving community that can achieve excellence in research, and thus we strive to ensure people of all backgrounds feel welcome at our conference. The organizers will work to foster an environment wherein diversity, equity, and inclusion are recognized and celebrated. The GCC is committed to ensuring that this conference is a space where students have the opportunity to share traditional knowledge as well as highlight and/or address inequities in climate science. 
 
-
 Specific actions that the GCC will take in order to ensure an equitable and inclusive environment from the application process to the conference itself are:
 
 - Reaching out to geoscience departments at Minority Serving Institutions (MSIs) and Historically Black Colleges and Universities (HBCUs).  The GCC intends to send an overview of the conference description, agenda, logistics, and application information, and members of the organizing committee will be available to answer any questions and help with the application process.
