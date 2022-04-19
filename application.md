@@ -45,8 +45,16 @@ The GCC welcomes applications from graduate students conducting climate-related 
 All attendees share either an oral or a poster presentation about their research. There are a limited number of oral presentation slots available. Additional information regarding the presentation formats is available on the [Logistics](https://graduateclimateconference.github.io/logistics/) page.
 
 In addition to your basic contact information, the application will require you to submit:
-- an abstract (max 250 words) describing your research
-- a personal statement (max 250 words) ​describing how you see yourself contributing to the GCC and the larger research community
+- an abstract (max 250 words) describing your research, reviewed for:
+    - Clearly stated relevance to climate 
+    - Scientific merit (contribution of original research with clear broader implications)
+    - Clarity of message and ideas
+    - Accessibility to all GCC participants (across many fields)
+- a personal statement (max 250 words) ​describing how you see yourself contributing to the GCC and the larger research community that highlights any of the following:
+    - Special interests, perspectives, skills, or future goals
+    - Aspects of your personal history, background, or identity that have shaped and impacted your experience in science
+    - Demonstrated experience or interest in contributing to service, teaching, mentoring, and/or efforts to support diversity and inclusion
+    - We are looking for authenticity, not any specific response. Please refrain from restating your resume or CV (we're not looking for a list of awards, accomplishments, etc.).
 - your preference for an oral/poster presentation
 - if you require travel assistance funding to attend the conference
 
