@@ -4,7 +4,7 @@ title: Sponsors
 subtitle: Graduate Climate Conference Sponsors
 ---
 
-We thank our generous sponsors for their support of the GCC!
+### We thank our generous sponsors for their support of the GCC!
 
 <style>
 * {
@@ -55,8 +55,8 @@ a {
       <div class="column right">
         <a href="https://cicoes.uw.edu/"><img src="/assets/img/sponsors/cicoes.png" alt="Cooperative Institute for Climate, Ocean & Ecosystem Studies"></a>
       </div>
-    <div class="column left">
-        <a href="https://grad.uw.edu/about-the-graduate-school/" style="text-align: center;"><img src="/assets/img/sponsors/uw-grad-school.png" alt="The Graduate School, University of Washington"></a>
+    <div class="column left" style="align-items: center;">
+        <a href="https://grad.uw.edu/about-the-graduate-school/" style="align-items: center;"><img src="/assets/img/sponsors/uw-grad-school.png" alt="The Graduate School, University of Washington"></a>
     </div>
     <div class="column right">
     </div>
