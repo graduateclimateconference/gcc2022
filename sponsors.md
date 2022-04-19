@@ -15,7 +15,7 @@ We thank our generous sponsors for their support of the GCC!
 .column {
   float: left;
   padding: 10px;
-  background-color: white;
+  background-color: site.page-col;
 }
 
 .left {
@@ -34,6 +34,12 @@ We thank our generous sponsors for their support of the GCC!
 }
 
 .top-buffer { margin-top:20px; }
+
+.img {
+    margin-left: auto;
+    margin-right: auto;
+    border: 2px 2px 2px black;
+}
 </style>
 
 <div class="row">
