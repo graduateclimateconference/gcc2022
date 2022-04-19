@@ -38,7 +38,7 @@ The application for GCC 2022 opened on Thursday April 14, 2022. The application 
 
 ### Eligibility
 
-The GCC welcomes applications from graduate students conducting climate-related research in any discipline. We encourage abstract submissions from diverse fields such as atmospheric sciences, biology, environmental management, forestry and fisheries sciences, oceanography, communication, public policy studies, urban planning, public health, and any other climate-related disciplines. The research does not need to be complete and can include proposed research in its early stages. All participants are required to give a research presentation (oral presentation or poster) during the conference with limited spots available for oral presentations. We value and encourage the contributions from individuals from underrepresented groups in STEM.
+The GCC welcomes applications from graduate students conducting climate-related research in any discipline. __Eligible applicants must be enrolled in a graduate program in Fall 2022.__ We encourage abstract submissions from diverse fields such as atmospheric sciences, biology, environmental management, forestry and fisheries sciences, oceanography, communication, public policy studies, urban planning, public health, and any other climate-related disciplines. The research does not need to be complete and can include proposed research in its early stages. All participants are required to give a research presentation (oral presentation or poster) during the conference with limited spots available for oral presentations. We value and encourage the contributions from individuals from underrepresented groups in STEM.
 
 ### Application Instructions
 
