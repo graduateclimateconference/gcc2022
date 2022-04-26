@@ -110,13 +110,13 @@ cover-img: "/assets/img/rainier1.jpeg"
           <img alt="Cora Hersh" src="/assets/img/headshots/Hersh_Cora.jpeg" />
         </div>
       </div>
-      <!-- <div>
+      <div>
         <div class="profile">
           <h2 class="profile__name">Lauren Hunt</h2>
-          <p>- None?<br> <br> </p>
-          <img alt="Lauren Hunt" src="/assets/img/avatar-icon.png" />
+          <p>- Logistics<br> <br> </p>
+          <img alt="Lauren Hunt" src="/assets/img/headshots/Lauren-Hunt.jpeg" />
         </div>
-      </div> -->
+      </div>
       <div>
         <div class="profile">
           <h2 class="profile__name">Danielle LeBlanc</h2>
