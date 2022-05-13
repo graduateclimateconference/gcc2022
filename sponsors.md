@@ -46,6 +46,22 @@ subtitle: Graduate Climate Conference Sponsors
 
 <div class="row">
       <div class="column left">
+        <p>UW Program on Climate Change</p>
+        <a target="_blank" href="https://pcc.uw.edu"><img src="/assets/img/sponsors/pcc.png" alt="UW Program on Climate Change"></a>
+      </div>
+      <div class="column right">
+        <p>Woods Hole Oceanographic Institution</p>
+        <a target="_blank" href="https://www.whoi.edu"><img src="/assets/img/sponsors/whoi.png" alt="Woods Hole Oceanographic Institution"></a>
+      </div>
+      <div class="column left">
+        <p>The National Science Foundation</p>
+        <a target="_blank" href="https://www.nsf.gov"><img src="/assets/img/sponsors/nsf.png" alt="National Science Foundation"></a>
+      </div>
+      <div class="column right">
+        <p>University of Wisconsin Atmospheric and Oceanic Sciences</p>
+        <a target="_blank" href="https://www.aos.wisc.edu"><img src="/assets/img/sponsors/uw_aos.jpeg" alt="University of Wisconsin Atmospheric and Oceanic Sciences"></a>
+      </div>
+      <div class="column left">
         <p>UW Atmospheric Sciences</p>
         <a target="_blank" href="https://atmos.uw.edu/"><img src="/assets/img/sponsors/atmos.jpeg" alt="UW Atmospheric Sciences"></a>
       </div>
