@@ -26,6 +26,11 @@ subtitle: Graduate Climate Conference Sponsors
   align-self: center;
 }
 
+.column .img {
+  height: 250px;
+  width: auto;
+}
+
 .left {
   width: 50%;
 }
