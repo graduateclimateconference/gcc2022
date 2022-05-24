@@ -30,7 +30,7 @@ The [application](https://graduateclimateconference.github.io/application/) open
 
 ### When does the application close?
 
-The application will close at 11:59 PM EDT on June 1, 2022.
+The application will close at 11:59 PM EDT on June 8, 2022. _The original deadline was June 1, 2022._
 
 ### When will I find out if my abstract was accepted?
 

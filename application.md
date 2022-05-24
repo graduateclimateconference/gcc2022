@@ -34,7 +34,7 @@ cover-img: "/assets/img/packforest.jpeg"
 <a target="_blank" href="https://docs.google.com/forms/d/e/1FAIpQLSdX2t4XdsJhbMjS5fLU9Q7ar_yZ8a0C-X_owvRt9X8P3d6zaw/viewform">
 <button class="button">Apply to the GCC!</button></a>
 
-The application for GCC 2022 opened on Thursday April 14, 2022. The application deadline is __11:59 PM Eastern Daylight Time on Wednesday, June 1, 2022__.
+The application for GCC 2022 opened on Thursday April 14, 2022. The application deadline is __11:59 PM Eastern Daylight Time on Wednesday, June 8, 2022__.
 
 ### Eligibility
 
@@ -58,4 +58,4 @@ In addition to your basic contact information, the application will require you 
 - your preference for an oral/poster presentation
 - if you require travel assistance funding to attend the conference
 
-Completed applications must be submitted by 11:59 PM Eastern Daylight Time on Wednesday, June 1st, 2022. Approximately 120 participants will be selected to attend the conference. Selection decisions will be emailed back by early July. Applicants also may be contacted for additional information at a later date.
+Completed applications must be submitted by 11:59 PM Eastern Daylight Time on Wednesday, June 8th, 2022. Approximately 120 participants will be selected to attend the conference. Selection decisions will be emailed back by early July. Applicants also may be contacted for additional information at a later date.
