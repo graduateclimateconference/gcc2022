@@ -30,7 +30,7 @@ cover-img: "/assets/img/packforest.jpeg"
   box-shadow: 2px 2px 2px black;
   text-decoration: underline;
 }
-<!-- </style> -->
+</style>
 <!-- <a target="_blank" href="https://docs.google.com/forms/d/e/1FAIpQLSdX2t4XdsJhbMjS5fLU9Q7ar_yZ8a0C-X_owvRt9X8P3d6zaw/viewform"> -->
 <!-- <button class="button">Apply to the GCC!</button></a> -->
 
