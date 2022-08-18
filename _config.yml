@@ -22,7 +22,7 @@ navbar-links:
   Application: "application"
   Logistics:
     - Conference Logistics: "logistics"
-    - Abstracts & Schedule: "abstracts"
+    - Abstracts & Schedule: "schedule"
     - COVID-19 Protocols: "covid"
   DEIJ: "DEIJ"
   More Info:
