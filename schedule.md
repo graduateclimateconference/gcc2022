@@ -16,8 +16,6 @@ cover-img: "/assets/img/rainier1.jpeg"
 
 # Keynote Speakers
 
-We are thrilled to announce our 2022 Graduate Climate Conference Keynote speakers:
-
 __Dr. Tamara Pico__
 > Diversity, Equity, Inclusion, and Justice Keynote Speaker
 
