@@ -11,19 +11,33 @@ GCC 2022 will be held at the [Pack Forest Conference Center](https://www.packfor
 
 # Transportation
 
-We will organize and provide transportation from UW to Pack Forest on Friday morning and from Pack Forest to UW on Sunday afternoon. There are a variety of options to get from SeaTac to UW.
+{% include note.html content="All the times are tentative and given in Pacific Time. This may be updated as bus schedules are confirmed. All attendees will be emailed with final transportation information closer to the conference." %}
 
-### SeaTac Airport - Seattle:
+We will organize and provide transportation to and from Pack Forest on Friday morning and Sunday afternoon/evening. Complimentary buses will be making stops at UW Seattle campus and the Seattle-Tacoma airport. A handful of attendees will also be driving their personal car to the conference and have offered to take some passengers, so you may also be assigned to ride in a car which will likely pick-up at UW.
 
-Google maps and [King County Metro’s online trip planner](http://tripplanner.kingcounty.gov/){:target="_blank"} are both good resources for finding the fastest route using public transportation. The [OneBusAway](http://onebusaway.org/){:target="_blank"} smartphone app is a great way to track bus arrival and departure times when using any of the buses within and around Seattle.
+On Friday morning, two buses will be picking up attendees from UW Seattle campus (exact location TBD) at 9 AM to go to Pack Forest. One bus will make an additional stop at the Seattle-Tacoma airport at 10 AM to pick-up attendees who are arriving on Friday morning. 
 
-We recommend riding the [Link Light Rail](http://www.soundtransit.org/rider-guide/link-light-rail){:target="_blank"} to get to UW campus from the airport. Be mindful that the Light Rail stops running between 1 AM and 5 AM Monday-Saturday and between midnight and 6 AM Sunday.
+On Sunday, there will be transportation ready at the conclusion of the conference at 12:30 PM to take attendees back to the Seattle-Tacoma airport (drop off by 3 PM) and the UW campus in Seattle (expected drop off by 3:45 PM).
+
+For those interested in hiking on Sunday afternoon, we will provide any necessary transportation to the hike. Transportation will also be provided after the hike to take attendees back to the Seattle-Tacoma airport (drop off by 8 PM) and the UW campus in Seattle (expected drop off by 8:45 PM).
+
+# Arriving before Friday morning?
+
+If you are arriving to Seattle before Friday morning, there are a variety of options to get from the airport to the UW area, which is near where most graduate student hosts will be living. 
+
+The easiest way to get to UW is using the [Link light rail](https://www.soundtransit.org/ride-with-us/routes-schedules/1-line?direction=0&at=1663311600000&view=table&route_tab=schedule&stops_0=1_990006%2C1_99913&stops_1=1_99914%2C1_990005){:target="_blank"}. [The airport Link light rail station](https://goo.gl/maps/MFiKQZGPqKDStkGs7){:target="_blank"} is a [6 minute walk](https://www.google.com/maps/dir/Baggage+Claim/SeaTac%2FAirport+Station,+SeaTac,+WA+98188/@47.4445536,-122.3004904,18z/data=!3m1!4b1!4m14!4m13!1m5!1m1!1s0x54905df11b7c57ef:0x380d4344d586c6f1!2m2!1d-122.3016775!2d47.4439441!1m5!1m1!1s0x54905cac071112b3:0x305efe0d2b8c1b56!2m2!1d-122.2969!2d47.44538!3e2){:target="_blank"} from the arrivals terminal. Follow signs inside the airport to the light rail station. The cost of a one-way ticket from the airport to the UW campus is $3.25, which you can pay at the station. 
+- Note that to get to UW from the airport, you will want to go in the northbound direction of “Northgate”. When you are heading back to the airport, you will want to go in the southbound “Angle Lake” direction. 
+- Be mindful that the Light Rail does not run 24/7 and has different schedules for weekdays, Saturdays, and Sundays.
+- - __For arrivals__ - the last train northbound leaving the airport headed to UW is at 11:44pm __on weekdays__.
+- - __For departures__ - The earliest train headed to the airport from UW is at 4:45am __on weekdays__.
+
+You can also get around Seattle using King County Metro. Google maps and [King County Metro’s online trip planner](https://tripplanner.kingcounty.gov/#/app/tripplanning){:target="_blank"} are both good resources for finding the fastest route using public transportation. The OneBusAway smartphone app is a great way to track bus arrival and departure times when using any of the buses within and around Seattle. Bus fares are usually $2.75 for a single ride. You will not receive any change if you pay in cash, so be prepared to provide the exact fare amount or overpay. You can also purchase bus pases via the [Transit GO Ticket app](https://kingcounty.gov/depts/transportation/metro/fares-orca/transit-go-ticket.aspx){:target="_blank"}.
 
 Other, more expensive options include a taxi, Uber/Lyft, or [Super Shuttle](http://www.shuttlefare.com/seattle_tacoma_airport_shuttle_sea){:target="_blank"}.
 
-### SeaTac or UW - Pack Forest:
+# Accommodations in Seattle
 
-You will receive an email before the conference that will detail your travel itinerary (ie. when and where you will be picked up and dropped off).
+We will do our best to match you with a graduate student host if you need housing Thursday night or Sunday night. We will provide more details to individual attendees about their hosts as we get folks matched up.
 
 <style>
 * {
