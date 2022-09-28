@@ -10,7 +10,7 @@ cover-img: "/assets/img/rainier1.jpeg"
 
 # Schedule
 
-> Coming soon...
+<object data="pdf/schdule.pdf" width="1000" height="1000" type='application/pdf'/>
 
 # Oral Presentation and Poster Abstracts
 
@@ -21,8 +21,6 @@ Please keep your oral presentation between 10-12 minutes long. We have a tight s
 
 #### Poster Presentations
 Your poster should be a maximum of 60” x 40” (1.5 m x 1 m). We do not have printers at Pack Forest, so you must print your poster prior to arriving.
-
-> Abstracts will be added to the website soon...
 
 # Keynote Speakers
 
