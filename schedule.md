@@ -4,15 +4,13 @@ title: Schedule & Abstracts
 cover-img: "/assets/img/rainier1.jpeg"
 ---
 
-> The schedule and abstracts will be released closer to the conference.
-
-
-
 # Schedule
 
 <img src="/assets/img/schedule.png" alt="Conference schedule">
 
 # Oral Presentation and Poster Abstracts
+
+> The schedule and abstracts will be released closer to the conference.
 
 As a reminder, your talk should be aimed at a general audience, as there will be graduate students from a range of disciplines and backgrounds attending. 
 
