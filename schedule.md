@@ -10,7 +10,7 @@ cover-img: "/assets/img/rainier1.jpeg"
 
 # Schedule
 
-<object data="pdf/schdule.pdf" width="1000" height="1000" type='application/pdf'/>
+<object data="https://graduateclimateconference.github.io/pdf/schdule.pdf" width="1000" height="1000" type='application/pdf'/></object>
 
 # Oral Presentation and Poster Abstracts
 
