@@ -19,7 +19,7 @@ On Friday morning, two buses will be picking up attendees from UW Seattle campus
 
 On Sunday, there will be transportation ready at the conclusion of the conference at 12:30 PM to take attendees back to the Seattle-Tacoma airport (drop off by 3 PM) and the UW campus in Seattle (expected drop off by 3:45 PM).
 
-For those interested in hiking on Sunday afternoon, we will provide any necessary transportation to the hike. Transportation will also be provided after the hike to take attendees back to the Seattle-Tacoma airport (drop off by 8 PM) and the UW campus in Seattle (expected drop off by 8:45 PM).
+For those joining on the Sunday hike at Mt. Rainier, transportation will be provided from Pack Forest to Mt. Rainier National Park [Henry M Jackson Memorial Visitor Center at Paradise](https://www.nps.gov/mora/planyourvisit/hours.htm){:target="_blank"}. __Dropoff at the visitor center will be around 2:00 pm, and pick up will be at the same location by 5:00 pm after the hike. The bus will drive directly to the Seattle-Tacoma airport for dropoff by 8:00 pm, followed by a final dropoff at UW Seattle at 8:45 pm.__
 
 # Arriving before Friday morning?
 
