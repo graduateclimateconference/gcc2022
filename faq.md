@@ -66,7 +66,7 @@ It is a GCC tradition to have optional recreation activities on Sunday afternoon
 
 ### What precautions does the GCC have against COVID-19?
 
-We plan to follow state and university guidelines regarding COVID-19. _More details coming soon..._
+We plan to follow state and university guidelines regarding COVID-19. Please refer to the [COVID](https://graduateclimateconference.github.io/covid/) page.
 
 ### What if my question is not answered here?
 

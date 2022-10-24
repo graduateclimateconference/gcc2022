@@ -30,7 +30,7 @@ Prior to arriving on site, attendees will be asked to provide proof that they ar
 
 ## 2. Arrival Wellness Check
 
-Conference attendees will be required to participate in a wellness check upon arrival for the GCC 2022. Everyone will be required to show a negative PCR test taken in the 72-hours leading up to the conference. If participants are not able to take a COVID-19 test in the 72-hours beforehand, a rapid test will be provided upon arrival and admittance to the conference will not be allowed until a negative result is shown.*
+Conference attendees will be required to participate in a wellness check upon arrival for the GCC 2022. Everyone will be required to show a negative PCR test taken in the 72-hours leading up to the conference. If participants are not able to take a COVID-19 test in the 72-hours leading up to the conference. _This is in addition to completing a rapid test which will be provided upon arrival._ Admittance to the conference will not be allowed until a negative result is shown. 
 
 *Attendees unable to be vaccinated for reasons such as medical conditions or religious beliefs will be required to show results of a negative PCR test taken within 72 hours of the meeting, and will _also_ be expected to take a rapid test upon arrival. For these attendees, a negative rapid test upon arrival cannot be substituted for a negative PCR test.
 
@@ -40,7 +40,7 @@ Attendees who feel ill or experience any [symptoms of COVID-19](https://www.cdc.
 
 ## 4. Other Onsite Safety Measures
 
-- For masking and social distance protocols, we will comply with local, state and venue/property guidelines for the event city. 
+- __Masks__: Masks will be required for all oral and poster presentations, keynotes, and workshops. Masks will not be required in shared accomodations, at meals, or at social events.
 - Hand sanitation stations will be available onsite for attendees.
 - Self-assessment – If you are feeling unwell and/or experiencing symptoms of COVID-19, you should not attend.
 
