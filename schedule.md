@@ -10,9 +10,9 @@ cover-img: "/assets/img/rainier1.jpeg"
 
 # Oral Presentation and Poster Abstracts
 
-[Conference Program](https://graduateclimateconference.github.io/assets/pdf/program.pdf)
+[Conference Program](https://graduateclimateconference.github.io/pdf/program.pdf)
 
-[Abstracts](https://graduateclimateconference.github.io/assets/pdf/abstracts.pdf)
+[Abstracts](https://graduateclimateconference.github.io/pdf/abstracts.pdf)
 
 As a reminder, your talk should be aimed at a general audience, as there will be graduate students from a range of disciplines and backgrounds attending.
 
