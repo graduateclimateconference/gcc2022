@@ -19,17 +19,17 @@ navbar-links:
   #  - Learn markdown: "https://www.markdowntutorial.com/"
   #Author's home: "https://deanattali.com"
   About: "about"
-  Application: "application"
+  Application: "application2022"
   Logistics:
-    - Conference Logistics: "logistics"
-    - Schedule & Abstracts: "schedule"
-    - COVID-19 Protocols: "covid"
+    - Conference Logistics: "logistics2022"
+    - Schedule & Abstracts: "schedule2022"
+    - COVID-19 Protocols: "covid2022"
   DEIJ: "DEIJ2022"
   More Info:
-    - Organizers: "organizers"
-    - Sponsors: "sponsors"
-    - Archive: "archive"
-    - FAQ: "faq"
+    - Organizers: "organizers2022"
+    - Sponsors: "sponsors2022"
+    - Archive: "archive2022"
+    - FAQ: "faq2022"
 
 # --- Logo --- #
 
